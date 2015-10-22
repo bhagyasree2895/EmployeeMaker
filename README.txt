@@ -4,7 +4,7 @@ EmployeeMaker
 
 44-542 Lab Exam 1 Practice
 
-https://bitbucket.org/professorcase/employeemaker
+https://github.com/denisecase/EmployeeMaker
 
 Denise Case
 dcase@nwmissouri.edu
