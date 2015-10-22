@@ -12,7 +12,3 @@ jai
 daksh
 aegir
 bertok
-hydra
-medusa
-neptun
-potsdam

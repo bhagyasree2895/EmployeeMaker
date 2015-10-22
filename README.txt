@@ -1,10 +1,10 @@
 ====================================================================
-PersonMaker
+EmployeeMaker
 ====================================================================
 
 44-542 Lab Exam 1 Practice
 
-https://bitbucket.org/professorcase/personmaker
+https://bitbucket.org/professorcase/employeemaker
 
 Denise Case
 dcase@nwmissouri.edu
