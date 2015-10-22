@@ -1,3200 +1,3200 @@
-Jai Bose
-30000.0
-12.0
-Natural Sciences
-Hydra Bose
-25000.0
-13.0
-Professional Education
-Reyansh Sengupta
-20000.0
-1.0
-Professional Education
-Reyansh Sengupta
-35000.0
-10.0
-Humanities and Social Sciences
-Neptun Sharma
-8.5
-14.0
-Mathematics, Computer Science, and Information Systems
-Hydra Sengupta
-7.5
-3.0
-Professional Education
-Aditi Pillai
-30000.0
-15.0
-English and Modern Languages
-Saanvi Sen
-5.0
-17.0
-Humanities and Social Sciences
-Atharv Sengupta
-7.0
-19.0
-Fine and Performing Arts
-Aditi Das
-40000.0
-5.0
-Natural Sciences
-Isaac Sengupta
-5.5
-12.0
-Natural Sciences
-Medusa Verma
-35000.0
-13.0
-Natural Sciences
-Medusa Venkatesan
-7.5
-8.0
-Fine and Performing Arts
-Neel Jayaraman
-8.5
-16.0
-Natural Sciences
-Atharv Sharma
-55000.0
-15.0
-Professional Education
-Medusa Das
-7.0
-8.0
-English and Modern Languages
-Reyansh Das
-40000.0
-12.0
-Professional Education
-Neel Sharma
-6.0
-10.0
-Natural Sciences
-Saanvi Sharma
-8.0
-9.0
-Natural Sciences
-Hydra Sengupta
-6.0
-1.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Gupta
-7.5
-10.0
-Humanities and Social Sciences
-Neptun Sharma
-50000.0
-5.0
-Fine and Performing Arts
-Isaac Verma
-8.0
-18.0
-Professional Education
-Daksh Venkatesan
-8.5
-16.0
-Humanities and Social Sciences
-Saanvi Sengupta
-5.5
-1.0
-Mathematics, Computer Science, and Information Systems
-Diya Gupta
-30000.0
-3.0
-Humanities and Social Sciences
-Hydra Verma
-5.5
-2.0
-Natural Sciences
-Atharv Sengupta
-10000.0
-11.0
-Humanities and Social Sciences
-Ananya Venkatesan
-35000.0
-17.0
-Humanities and Social Sciences
-Isaac Jayaraman
-5.5
-10.0
-Natural Sciences
-Hydra Verma
-35000.0
-10.0
-Humanities and Social Sciences
-Zara Venkatesan
-40000.0
-16.0
-Mathematics, Computer Science, and Information Systems
-Daksh Rao
-15000.0
-5.0
-Fine and Performing Arts
-Neel Bose
-6.0
-16.0
-Fine and Performing Arts
-Aadhya Pillai
-25000.0
-2.0
-Natural Sciences
-Hydra Sen
-5.0
-9.0
-English and Modern Languages
-Bertok Das
-6.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Verma
-6.5
-10.0
-Mathematics, Computer Science, and Information Systems
-Neptun Jayaraman
-50000.0
-0.0
-Mathematics, Computer Science, and Information Systems
-Isaac Venkatesan
-6.5
-2.0
-Professional Education
-Medusa Verma
-50000.0
-4.0
-Natural Sciences
-Atharv Das
-8.5
-11.0
-Mathematics, Computer Science, and Information Systems
-Reyansh Sengupta
-5.0
-3.0
-Fine and Performing Arts
-Neptun Pillai
-35000.0
-14.0
-Natural Sciences
-Diya Bose
-20000.0
-18.0
-Professional Education
-Neptun Bose
-5.0
-2.0
-Mathematics, Computer Science, and Information Systems
-Isaac Pillai
-8.0
-16.0
-English and Modern Languages
-Saanvi Rao
-5.5
-9.0
-Mathematics, Computer Science, and Information Systems
-Diya Verma
-8.0
-17.0
-Professional Education
-Aadhya Sharma
-30000.0
-11.0
-Fine and Performing Arts
-Zara Jayaraman
-6.5
-2.0
-Mathematics, Computer Science, and Information Systems
-Daksh Rao
-6.5
-18.0
-Natural Sciences
-Medusa Bose
-50000.0
-11.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Venkatesan
-20000.0
-1.0
-Mathematics, Computer Science, and Information Systems
-Jai Jayaraman
-7.0
-3.0
-Mathematics, Computer Science, and Information Systems
-Atharv Das
-8.5
-6.0
-Humanities and Social Sciences
-Reyansh Verma
-25000.0
-0.0
-Humanities and Social Sciences
-Aegir Venkatesan
-30000.0
-8.0
-Humanities and Social Sciences
-Ananya Rao
-55000.0
-17.0
-English and Modern Languages
-Neptun Rao
-7.0
-13.0
-Professional Education
-Daksh Gupta
-8.5
-8.0
-Professional Education
-Isaac Sen
-5.5
-12.0
-Fine and Performing Arts
-Bertok Gupta
-20000.0
-14.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Sharma
-8.5
-1.0
-Professional Education
-Aegir Sen
-25000.0
-15.0
-Humanities and Social Sciences
-Reyansh Sharma
-6.5
-7.0
-Professional Education
-Daksh Bose
-5.5
-7.0
-Humanities and Social Sciences
-Neptun Venkatesan
-40000.0
-1.0
-Fine and Performing Arts
-Saanvi Venkatesan
-8.5
-6.0
-Professional Education
-Zara Verma
-8.0
-3.0
-English and Modern Languages
-Neptun Das
-50000.0
-6.0
-Natural Sciences
-Bertok Bose
-6.5
-4.0
-English and Modern Languages
-Hydra Das
-40000.0
-8.0
-Fine and Performing Arts
-Hydra Sharma
-5.0
-9.0
-Professional Education
-Reyansh Jayaraman
-5.5
-12.0
-Fine and Performing Arts
-Saanvi Das
-50000.0
-3.0
-Professional Education
-Zara Jayaraman
-35000.0
-5.0
-Mathematics, Computer Science, and Information Systems
-Daksh Verma
-8.5
-8.0
-Fine and Performing Arts
-Zara Rao
-7.5
-2.0
-Professional Education
-Potsdam Jayaraman
-10000.0
-14.0
-English and Modern Languages
-Aegir Venkatesan
-50000.0
-17.0
-Fine and Performing Arts
-Neel Sharma
-6.0
-13.0
-English and Modern Languages
-Zara Verma
-5.0
-0.0
-Natural Sciences
-Zara Verma
-8.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Bertok Verma
-30000.0
-16.0
-Professional Education
-Neptun Sen
-50000.0
-1.0
-Humanities and Social Sciences
-Neel Venkatesan
-50000.0
-1.0
-Professional Education
-Neel Pillai
-40000.0
-13.0
-Humanities and Social Sciences
-Daksh Jayaraman
-20000.0
-7.0
-English and Modern Languages
-Aadhya Rao
-5.5
-3.0
-English and Modern Languages
-Zara Rao
-50000.0
-9.0
-Fine and Performing Arts
-Hydra Venkatesan
-6.5
-18.0
-Humanities and Social Sciences
-Aditi Sharma
-5.0
-2.0
-English and Modern Languages
-Isaac Bose
-6.5
-3.0
-Fine and Performing Arts
-Bertok Jayaraman
-35000.0
-4.0
-Natural Sciences
-Potsdam Venkatesan
-20000.0
-4.0
-English and Modern Languages
-Medusa Venkatesan
-7.0
-16.0
-Natural Sciences
-Bertok Das
-10000.0
-14.0
-Mathematics, Computer Science, and Information Systems
-Aegir Venkatesan
-25000.0
-18.0
-English and Modern Languages
-Hydra Pillai
-5.0
-1.0
-Professional Education
-Aegir Bose
-5.0
-18.0
-Mathematics, Computer Science, and Information Systems
-Aadhya Sharma
-8.5
-4.0
-Mathematics, Computer Science, and Information Systems
-Aadhya Sharma
-5.5
-19.0
-Fine and Performing Arts
-Isaac Sharma
-8.5
-10.0
-English and Modern Languages
-Isaac Jayaraman
-10000.0
-19.0
-English and Modern Languages
-Potsdam Venkatesan
-30000.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Aadhya Das
-45000.0
-17.0
-Professional Education
-Hydra Jayaraman
-5.5
-7.0
-Professional Education
-Neptun Gupta
-8.0
-16.0
-Professional Education
-Aditi Sen
-20000.0
-11.0
-Natural Sciences
-Ananya Das
-5.5
-16.0
-Fine and Performing Arts
-Ananya Sen
-35000.0
-16.0
-Fine and Performing Arts
-Aadhya Rao
-45000.0
-4.0
-Natural Sciences
-Bertok Pillai
-6.0
-9.0
-Professional Education
-Daksh Rao
-8.5
-17.0
-English and Modern Languages
-Reyansh Pillai
-10000.0
-15.0
-English and Modern Languages
-Saanvi Das
-45000.0
-3.0
-Humanities and Social Sciences
-Reyansh Das
-40000.0
-5.0
-Humanities and Social Sciences
-Medusa Sharma
-50000.0
-14.0
-English and Modern Languages
-Diya Das
-10000.0
-8.0
-Professional Education
-Aegir Jayaraman
-40000.0
-19.0
-Professional Education
-Hydra Das
-7.0
-11.0
-English and Modern Languages
-Diya Sen
-35000.0
-15.0
-Mathematics, Computer Science, and Information Systems
-Zara Verma
-8.5
-0.0
-Natural Sciences
-Daksh Pillai
-7.0
-15.0
-Natural Sciences
-Neel Gupta
-7.0
-18.0
-Professional Education
-Daksh Sen
-25000.0
-5.0
-Fine and Performing Arts
-Aegir Jayaraman
-8.5
-16.0
-Fine and Performing Arts
-Daksh Bose
-7.5
-18.0
-Humanities and Social Sciences
-Jai Das
-55000.0
-13.0
-Natural Sciences
-Neel Sharma
-7.5
-16.0
-English and Modern Languages
-Atharv Venkatesan
-5.0
-13.0
-Mathematics, Computer Science, and Information Systems
-Jai Verma
-50000.0
-19.0
-English and Modern Languages
-Potsdam Venkatesan
-45000.0
-18.0
-Natural Sciences
-Atharv Gupta
-30000.0
-10.0
-Professional Education
-Aegir Gupta
-55000.0
-1.0
-Natural Sciences
-Bertok Rao
-50000.0
-19.0
-Fine and Performing Arts
-Diya Pillai
-20000.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Diya Das
-15000.0
-18.0
-Mathematics, Computer Science, and Information Systems
-Atharv Sharma
-40000.0
-2.0
-Professional Education
-Saanvi Verma
-6.5
-12.0
-Natural Sciences
-Zara Jayaraman
-5.5
-3.0
-Fine and Performing Arts
 Neel Rao
-7.5
-18.0
-Fine and Performing Arts
-Saanvi Sen
-40000.0
-14.0
-Professional Education
-Neptun Sen
-7.0
-4.0
-Professional Education
-Daksh Verma
-45000.0
-19.0
-Humanities and Social Sciences
-Ananya Jayaraman
-35000.0
-4.0
-Fine and Performing Arts
-Hydra Rao
-7.5
-10.0
-Humanities and Social Sciences
-Aadhya Rao
-45000.0
-6.0
-Mathematics, Computer Science, and Information Systems
-Neptun Bose
-7.0
-11.0
-English and Modern Languages
-Neel Pillai
-25000.0
-2.0
-Natural Sciences
-Ananya Pillai
-6.5
-3.0
-English and Modern Languages
-Aditi Verma
-50000.0
-1.0
-Humanities and Social Sciences
-Jai Rao
-8.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Reyansh Bose
-6.0
-13.0
-English and Modern Languages
-Bertok Venkatesan
-25000.0
-17.0
-Humanities and Social Sciences
-Hydra Das
-8.0
-9.0
-Fine and Performing Arts
-Potsdam Verma
-40000.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Medusa Sen
-8.0
-10.0
-Fine and Performing Arts
-Medusa Das
 5.5
-8.0
-English and Modern Languages
-Medusa Venkatesan
-50000.0
-10.0
-Professional Education
-Ananya Sen
-55000.0
-4.0
-Fine and Performing Arts
-Zara Pillai
-10000.0
-4.0
-Professional Education
-Potsdam Rao
-35000.0
-7.0
-English and Modern Languages
-Reyansh Sengupta
-6.5
-8.0
-English and Modern Languages
-Zara Pillai
-55000.0
-3.0
+18.0
 Mathematics, Computer Science, and Information Systems
-Neel Jayaraman
-8.0
-14.0
-Humanities and Social Sciences
-Neel Das
-45000.0
-9.0
-Humanities and Social Sciences
 Aditi Jayaraman
-6.5
-2.0
-Humanities and Social Sciences
-Neel Venkatesan
-5.0
-11.0
-Professional Education
-Aadhya Sen
-5.0
 8.0
-Natural Sciences
-Diya Jayaraman
-35000.0
-4.0
+13.0
 Humanities and Social Sciences
-Ananya Verma
-8.0
-0.0
-Fine and Performing Arts
-Neel Gupta
-5.5
-4.0
-Fine and Performing Arts
-Ananya Pillai
-55000.0
-16.0
-Mathematics, Computer Science, and Information Systems
-Aegir Sengupta
-30000.0
-3.0
-Fine and Performing Arts
-Reyansh Das
-25000.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Neptun Das
+Daksh Sen
+50000.0
 6.0
-5.0
-Mathematics, Computer Science, and Information Systems
-Neel Das
-7.5
-14.0
-Mathematics, Computer Science, and Information Systems
-Zara Jayaraman
-15000.0
-19.0
-Professional Education
-Saanvi Venkatesan
-15000.0
-19.0
-Professional Education
-Potsdam Bose
-8.0
-19.0
-Mathematics, Computer Science, and Information Systems
-Bertok Sen
-50000.0
-1.0
-Natural Sciences
-Aegir Rao
-8.0
-7.0
-Mathematics, Computer Science, and Information Systems
-Zara Venkatesan
-7.5
-16.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Venkatesan
-5.5
-14.0
-Professional Education
-Medusa Bose
-5.0
-18.0
-Natural Sciences
-Aegir Sharma
-8.0
-15.0
-Natural Sciences
-Daksh Rao
-5.5
-7.0
-Humanities and Social Sciences
-Aegir Pillai
-15000.0
-19.0
-Professional Education
-Bertok Das
-45000.0
-1.0
-Professional Education
-Isaac Pillai
-50000.0
-10.0
-Natural Sciences
+English and Modern Languages
 Jai Venkatesan
 20000.0
-1.0
-Natural Sciences
-Aadhya Das
-5.5
-19.0
-English and Modern Languages
-Isaac Sen
-15000.0
-9.0
-Natural Sciences
-Zara Gupta
-30000.0
-18.0
-Humanities and Social Sciences
-Medusa Sen
-6.5
-2.0
-Humanities and Social Sciences
-Aadhya Venkatesan
-45000.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Diya Bose
-5.5
-7.0
-English and Modern Languages
-Aadhya Bose
-10000.0
-8.0
-English and Modern Languages
-Ananya Sen
-55000.0
-9.0
-Mathematics, Computer Science, and Information Systems
-Aegir Gupta
-10000.0
-1.0
-Humanities and Social Sciences
-Medusa Sen
-5.5
-16.0
-English and Modern Languages
-Isaac Bose
-55000.0
-2.0
-English and Modern Languages
-Jai Jayaraman
-8.0
-7.0
-English and Modern Languages
-Diya Verma
-20000.0
-6.0
-Fine and Performing Arts
-Reyansh Sengupta
-45000.0
-11.0
-Professional Education
-Saanvi Sengupta
-8.0
-17.0
-Humanities and Social Sciences
-Neptun Pillai
-8.5
-15.0
-Humanities and Social Sciences
-Neptun Verma
-7.5
-9.0
-Mathematics, Computer Science, and Information Systems
-Bertok Venkatesan
-5.5
-3.0
-Humanities and Social Sciences
-Atharv Sen
-45000.0
-17.0
-Natural Sciences
-Neel Sharma
-7.5
-15.0
-English and Modern Languages
-Zara Sengupta
-10000.0
-19.0
-Humanities and Social Sciences
-Zara Bose
-6.5
-2.0
-Humanities and Social Sciences
-Aadhya Venkatesan
-45000.0
-15.0
-English and Modern Languages
-Saanvi Sen
-55000.0
-9.0
-English and Modern Languages
-Hydra Sharma
-40000.0
-12.0
-Professional Education
-Daksh Rao
-6.5
-0.0
-Natural Sciences
-Bertok Sengupta
-45000.0
-12.0
-English and Modern Languages
-Medusa Gupta
-55000.0
-19.0
-English and Modern Languages
-Daksh Jayaraman
-6.0
-3.0
-Fine and Performing Arts
-Aadhya Rao
-5.5
-0.0
-Fine and Performing Arts
-Zara Bose
-7.5
-4.0
-Mathematics, Computer Science, and Information Systems
-Neptun Sharma
-7.5
-6.0
-Humanities and Social Sciences
-Bertok Verma
-25000.0
-19.0
-Mathematics, Computer Science, and Information Systems
-Daksh Rao
-25000.0
-14.0
-Fine and Performing Arts
-Hydra Verma
-50000.0
-5.0
-Natural Sciences
-Aadhya Das
-5.0
-15.0
-Natural Sciences
-Zara Gupta
-55000.0
-6.0
-Mathematics, Computer Science, and Information Systems
-Saanvi Sharma
-7.5
-19.0
-Professional Education
-Neel Sengupta
-55000.0
-17.0
-Natural Sciences
-Ananya Sen
-8.0
-8.0
-Mathematics, Computer Science, and Information Systems
-Hydra Gupta
-5.5
-10.0
-Professional Education
-Saanvi Sen
-6.0
-9.0
-Fine and Performing Arts
-Zara Rao
-15000.0
-16.0
-English and Modern Languages
-Diya Das
-25000.0
-3.0
-Mathematics, Computer Science, and Information Systems
-Medusa Sengupta
-8.0
-15.0
-Fine and Performing Arts
-Diya Jayaraman
-10000.0
-11.0
-Fine and Performing Arts
-Potsdam Das
-6.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Ananya Verma
-8.0
-15.0
-Professional Education
-Diya Sharma
-5.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Ananya Jayaraman
-10000.0
-19.0
-English and Modern Languages
-Diya Sharma
-8.5
-8.0
-Humanities and Social Sciences
-Potsdam Bose
-50000.0
-4.0
-English and Modern Languages
-Bertok Venkatesan
-5.5
-6.0
-Mathematics, Computer Science, and Information Systems
-Atharv Sengupta
-40000.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Aadhya Das
-35000.0
-9.0
-Natural Sciences
-Hydra Bose
-55000.0
-8.0
-Humanities and Social Sciences
-Neel Sharma
-45000.0
-14.0
-Professional Education
-Medusa Gupta
-55000.0
-1.0
-Fine and Performing Arts
-Neptun Jayaraman
-15000.0
-10.0
-Natural Sciences
-Ananya Venkatesan
-5.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Aegir Das
-7.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Aegir Das
-15000.0
-14.0
-Fine and Performing Arts
-Neptun Jayaraman
-5.5
-4.0
-English and Modern Languages
-Hydra Verma
-7.0
-1.0
-Professional Education
-Neptun Sharma
-7.0
-6.0
-Professional Education
-Atharv Verma
-40000.0
-4.0
-Humanities and Social Sciences
-Ananya Rao
-7.0
-3.0
-Natural Sciences
-Zara Sharma
-8.5
-15.0
-Professional Education
-Aditi Sharma
-5.5
-19.0
-Professional Education
-Potsdam Bose
-7.0
 11.0
 English and Modern Languages
-Potsdam Sen
-35000.0
-18.0
-Fine and Performing Arts
-Daksh Venkatesan
-7.5
-15.0
-Fine and Performing Arts
-Zara Bose
-25000.0
-15.0
-Professional Education
-Aadhya Pillai
-7.5
+Aadhya Sen
+45000.0
 11.0
-English and Modern Languages
-Aditi Gupta
-6.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Saanvi Verma
-8.5
-17.0
-Professional Education
-Medusa Sengupta
-45000.0
-5.0
-Professional Education
-Jai Verma
-7.0
-17.0
 Fine and Performing Arts
-Isaac Gupta
-5.5
-3.0
-Fine and Performing Arts
-Neel Jayaraman
-20000.0
-2.0
-Mathematics, Computer Science, and Information Systems
-Ananya Jayaraman
-7.0
-9.0
-Humanities and Social Sciences
-Jai Jayaraman
-6.5
-18.0
-Humanities and Social Sciences
-Isaac Verma
-55000.0
-17.0
-Mathematics, Computer Science, and Information Systems
-Reyansh Sharma
-45000.0
-12.0
-Humanities and Social Sciences
-Ananya Verma
-50000.0
-1.0
-Humanities and Social Sciences
 Isaac Pillai
-5.5
-3.0
-Natural Sciences
-Reyansh Rao
-25000.0
-16.0
-Mathematics, Computer Science, and Information Systems
-Reyansh Sen
-10000.0
-19.0
-Natural Sciences
-Atharv Verma
-15000.0
+45000.0
 8.0
+Natural Sciences
+Aadhya Sengupta
+8.0
+17.0
 Mathematics, Computer Science, and Information Systems
 Atharv Sharma
-15000.0
-7.0
-Humanities and Social Sciences
-Potsdam Sengupta
-25000.0
-4.0
-Fine and Performing Arts
-Jai Sharma
-6.0
-10.0
-English and Modern Languages
-Aditi Pillai
-8.0
+7.5
 17.0
-Humanities and Social Sciences
-Ananya Bose
-10000.0
+English and Modern Languages
+Ananya Gupta
+45000.0
 2.0
-English and Modern Languages
-Aegir Pillai
-5.0
-3.0
-Humanities and Social Sciences
-Neptun Sen
-50000.0
-9.0
 Professional Education
-Isaac Venkatesan
-25000.0
-17.0
-Mathematics, Computer Science, and Information Systems
-Neptun Sen
-35000.0
-10.0
-English and Modern Languages
-Neel Jayaraman
-5.0
-17.0
-Professional Education
-Aegir Bose
-5.0
-15.0
-Humanities and Social Sciences
-Neel Venkatesan
-6.0
-6.0
+Isaac Jayaraman
+7.0
+11.0
 Natural Sciences
-Daksh Gupta
+Diya Das
 35000.0
 11.0
-Humanities and Social Sciences
-Diya Venkatesan
-5.0
-0.0
-Natural Sciences
-Ananya Bose
-8.5
-14.0
-Humanities and Social Sciences
-Aadhya Venkatesan
-7.5
-1.0
-Mathematics, Computer Science, and Information Systems
-Daksh Bose
-10000.0
-9.0
-Professional Education
-Atharv Sengupta
-55000.0
-8.0
-Humanities and Social Sciences
-Neel Verma
-45000.0
-8.0
-Natural Sciences
-Neptun Sengupta
-8.0
-3.0
-Mathematics, Computer Science, and Information Systems
-Zara Venkatesan
-6.0
-12.0
-Professional Education
-Hydra Gupta
-15000.0
-8.0
 English and Modern Languages
-Aadhya Sen
-15000.0
-0.0
-English and Modern Languages
-Saanvi Sen
-45000.0
-3.0
-English and Modern Languages
-Zara Rao
-40000.0
-2.0
-Humanities and Social Sciences
-Atharv Pillai
-50000.0
-9.0
-Natural Sciences
-Zara Sengupta
-50000.0
-19.0
-Professional Education
-Saanvi Sen
-15000.0
-3.0
-Professional Education
-Medusa Rao
-10000.0
-17.0
-Natural Sciences
-Medusa Jayaraman
+Aadhya Das
 30000.0
-15.0
-Humanities and Social Sciences
-Neel Rao
-10000.0
-17.0
-Natural Sciences
-Ananya Pillai
-6.5
-6.0
-Professional Education
-Ananya Verma
-5.0
-19.0
-English and Modern Languages
-Reyansh Verma
-50000.0
-3.0
-Humanities and Social Sciences
-Atharv Sen
-40000.0
 0.0
 Natural Sciences
-Medusa Gupta
-5.5
-18.0
-Humanities and Social Sciences
-Aegir Bose
-5.5
-2.0
+Aditi Venkatesan
+6.5
+1.0
+Fine and Performing Arts
+Jai Das
+6.0
+14.0
+English and Modern Languages
+Bertok Bose
+55000.0
+16.0
 Natural Sciences
-Diya Verma
+Bertok Sengupta
+35000.0
+7.0
+Humanities and Social Sciences
+Neel Das
+8.5
+9.0
+Fine and Performing Arts
+Aditi Jayaraman
+45000.0
+9.0
+Professional Education
+Bertok Bose
+10000.0
+1.0
+English and Modern Languages
+Zara Sen
+6.0
+16.0
+Mathematics, Computer Science, and Information Systems
+Neel Venkatesan
+20000.0
+14.0
+Natural Sciences
+Atharv Gupta
+8.0
+17.0
+Mathematics, Computer Science, and Information Systems
+Diya Pillai
+5.0
+4.0
+Natural Sciences
+Daksh Sengupta
+45000.0
+5.0
+Humanities and Social Sciences
+Isaac Sen
 7.5
 13.0
-Humanities and Social Sciences
-Isaac Venkatesan
-8.0
-18.0
-Natural Sciences
-Ananya Pillai
-35000.0
-5.0
-Professional Education
-Jai Sengupta
-6.0
-17.0
-English and Modern Languages
-Atharv Pillai
-8.5
-8.0
-English and Modern Languages
-Jai Sharma
-25000.0
-17.0
-Professional Education
-Neptun Sharma
-6.5
-8.0
-Humanities and Social Sciences
-Reyansh Sen
-10000.0
-8.0
-Fine and Performing Arts
-Hydra Das
-8.0
-15.0
-English and Modern Languages
-Aditi Jayaraman
-7.5
-7.0
 Mathematics, Computer Science, and Information Systems
-Aegir Sengupta
-5.5
-8.0
-Natural Sciences
-Daksh Venkatesan
-5.5
-0.0
-Natural Sciences
-Aegir Bose
-7.5
-16.0
-Fine and Performing Arts
-Aegir Sen
-20000.0
-18.0
-Professional Education
-Saanvi Sengupta
+Jai Gupta
 15000.0
 17.0
-Professional Education
-Ananya Jayaraman
-5.0
-1.0
-Humanities and Social Sciences
-Medusa Sengupta
-35000.0
-19.0
 Fine and Performing Arts
-Saanvi Sen
-35000.0
-4.0
-Professional Education
-Aditi Venkatesan
-55000.0
+Aadhya Pillai
+7.5
+3.0
+English and Modern Languages
+Aadhya Sengupta
+6.0
 5.0
-Natural Sciences
-Potsdam Sen
-50000.0
-12.0
-Humanities and Social Sciences
-Bertok Das
-8.0
-9.0
-Natural Sciences
-Diya Bose
-6.5
-4.0
 Mathematics, Computer Science, and Information Systems
-Hydra Rao
-7.0
-1.0
+Aadhya Das
+40000.0
+16.0
 Natural Sciences
 Neel Bose
-6.0
-1.0
-Professional Education
-Potsdam Sharma
-55000.0
-11.0
-Natural Sciences
-Hydra Pillai
-15000.0
-19.0
-English and Modern Languages
-Aegir Pillai
-10000.0
-2.0
-Mathematics, Computer Science, and Information Systems
-Isaac Das
-8.0
-4.0
-English and Modern Languages
-Aditi Venkatesan
-7.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Neel Rao
-35000.0
-16.0
-Natural Sciences
-Reyansh Pillai
-7.0
-18.0
-Professional Education
-Saanvi Sengupta
-8.5
-5.0
-Fine and Performing Arts
-Hydra Das
-6.0
-19.0
-Natural Sciences
-Jai Sen
-7.0
-0.0
-Fine and Performing Arts
-Medusa Das
-7.5
-1.0
-Natural Sciences
-Saanvi Verma
-35000.0
-7.0
-Mathematics, Computer Science, and Information Systems
-Ananya Sengupta
-55000.0
-14.0
-Fine and Performing Arts
-Neptun Gupta
 6.5
-8.0
-Natural Sciences
-Diya Gupta
-7.0
-6.0
-Humanities and Social Sciences
-Diya Bose
-5.5
-14.0
-English and Modern Languages
-Jai Verma
-20000.0
-5.0
-English and Modern Languages
-Jai Sen
-15000.0
-16.0
-Fine and Performing Arts
-Hydra Das
-25000.0
-2.0
-Humanities and Social Sciences
-Jai Rao
-8.5
 9.0
-Professional Education
-Reyansh Sen
-7.0
-12.0
-Natural Sciences
-Atharv Rao
-25000.0
-2.0
-Professional Education
-Neel Pillai
+Humanities and Social Sciences
+Neel Jayaraman
 40000.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Bertok Jayaraman
-5.0
-10.0
-English and Modern Languages
-Neel Venkatesan
-8.0
-11.0
-Mathematics, Computer Science, and Information Systems
-Isaac Sharma
-7.0
-1.0
+18.0
 Humanities and Social Sciences
-Aditi Rao
-6.0
-17.0
+Saanvi Sen
+45000.0
+16.0
+Mathematics, Computer Science, and Information Systems
+Diya Sharma
+7.5
+7.0
 Natural Sciences
-Bertok Sharma
+Aditi Jayaraman
 35000.0
-19.0
-Fine and Performing Arts
-Bertok Verma
-15000.0
-7.0
-Humanities and Social Sciences
-Neptun Pillai
-20000.0
-12.0
-English and Modern Languages
-Aditi Sengupta
-20000.0
-16.0
-Humanities and Social Sciences
-Aadhya Sengupta
-15000.0
-17.0
-Fine and Performing Arts
-Medusa Sengupta
-50000.0
 10.0
 Natural Sciences
-Hydra Sengupta
+Neel Pillai
 50000.0
-14.0
-Humanities and Social Sciences
-Bertok Sengupta
-20000.0
+7.0
+Professional Education
+Diya Sengupta
+8.5
 3.0
-Natural Sciences
-Aditi Bose
-50000.0
-12.0
-Mathematics, Computer Science, and Information Systems
-Atharv Sengupta
-5.0
-2.0
-Humanities and Social Sciences
-Reyansh Bose
-5.0
-6.0
-Humanities and Social Sciences
-Isaac Sengupta
-5.5
-16.0
 Fine and Performing Arts
-Saanvi Gupta
-55000.0
-2.0
-Humanities and Social Sciences
-Saanvi Jayaraman
-30000.0
-14.0
-Professional Education
-Jai Das
-55000.0
-2.0
-Professional Education
-Zara Bose
-8.5
-19.0
-Humanities and Social Sciences
-Medusa Sharma
-8.5
+Zara Das
 8.0
-Professional Education
-Reyansh Rao
-25000.0
-9.0
-English and Modern Languages
-Reyansh Sen
-5.5
-13.0
-Fine and Performing Arts
-Hydra Verma
-8.5
-2.0
-English and Modern Languages
-Zara Rao
 5.0
-5.0
-Humanities and Social Sciences
-Reyansh Venkatesan
-6.0
+Natural Sciences
+Reyansh Bose
+7.5
 13.0
 Mathematics, Computer Science, and Information Systems
-Neptun Pillai
+Ananya Venkatesan
+10000.0
+12.0
+English and Modern Languages
+Ananya Jayaraman
+5.5
+18.0
+English and Modern Languages
+Reyansh Sharma
+5.5
+0.0
+Professional Education
+Zara Rao
+35000.0
+2.0
+Natural Sciences
+Aditi Sharma
+7.0
+13.0
+Mathematics, Computer Science, and Information Systems
+Isaac Bose
+6.5
 6.0
+Natural Sciences
+Saanvi Sen
+50000.0
+7.0
+Professional Education
+Aditi Sharma
+5.0
+7.0
+English and Modern Languages
+Aadhya Verma
+5.5
+13.0
+Mathematics, Computer Science, and Information Systems
+Neel Sen
+40000.0
+15.0
+Professional Education
+Aegir Bose
+7.0
+5.0
+English and Modern Languages
+Isaac Sharma
+6.5
+1.0
+Professional Education
+Aadhya Verma
+5.0
+4.0
+Humanities and Social Sciences
+Jai Gupta
+5.5
+8.0
+English and Modern Languages
+Reyansh Bose
+50000.0
 15.0
 Natural Sciences
+Aadhya Sharma
+35000.0
+11.0
+English and Modern Languages
+Neel Sharma
+7.5
+15.0
+Natural Sciences
+Aadhya Das
+30000.0
+4.0
+Professional Education
 Aadhya Pillai
 7.0
-0.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Verma
-8.0
-9.0
-Professional Education
-Reyansh Sen
-6.0
-1.0
-Fine and Performing Arts
-Diya Jayaraman
-7.5
-4.0
-Fine and Performing Arts
-Reyansh Bose
-25000.0
+19.0
+Humanities and Social Sciences
+Daksh Venkatesan
+40000.0
 1.0
 English and Modern Languages
-Reyansh Gupta
-50000.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Saanvi Bose
+Neel Jayaraman
+15000.0
+18.0
+Fine and Performing Arts
+Isaac Sharma
 6.5
-15.0
+6.0
 Humanities and Social Sciences
-Zara Gupta
-30000.0
+Diya Venkatesan
+5.0
+13.0
+Professional Education
+Ananya Das
+7.5
 16.0
+Mathematics, Computer Science, and Information Systems
+Daksh Gupta
+45000.0
+14.0
+Mathematics, Computer Science, and Information Systems
+Reyansh Gupta
+35000.0
+12.0
+Professional Education
+Diya Verma
+55000.0
+13.0
+Professional Education
+Ananya Sengupta
+8.0
+14.0
+Fine and Performing Arts
+Bertok Gupta
+7.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Gupta
+50000.0
+8.0
 Humanities and Social Sciences
-Neel Pillai
+Saanvi Sengupta
 40000.0
+10.0
+Fine and Performing Arts
+Isaac Gupta
+20000.0
 15.0
-Humanities and Social Sciences
-Medusa Sen
+Natural Sciences
+Neel Verma
+5.0
+14.0
+Fine and Performing Arts
+Atharv Gupta
+35000.0
+11.0
+Fine and Performing Arts
+Diya Jayaraman
 6.0
 16.0
-Professional Education
-Ananya Pillai
-5.0
+Natural Sciences
+Aadhya Bose
+25000.0
+17.0
+Fine and Performing Arts
+Aditi Jayaraman
+8.5
 10.0
 Mathematics, Computer Science, and Information Systems
-Diya Bose
+Diya Jayaraman
+7.5
+9.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Sengupta
+8.5
+18.0
+Natural Sciences
+Bertok Sen
+25000.0
+12.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Verma
+10000.0
+14.0
+Humanities and Social Sciences
+Neel Gupta
 45000.0
+16.0
+Professional Education
+Daksh Jayaraman
+40000.0
+11.0
+Humanities and Social Sciences
+Aadhya Pillai
+35000.0
+16.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Sengupta
+40000.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Daksh Jayaraman
+7.5
+9.0
+Professional Education
+Bertok Sharma
+25000.0
+9.0
+Professional Education
+Aadhya Venkatesan
+5.5
+16.0
+Fine and Performing Arts
+Zara Das
+6.0
+15.0
+Professional Education
+Ananya Bose
+55000.0
+1.0
+Fine and Performing Arts
+Aditi Gupta
+15000.0
+10.0
+Fine and Performing Arts
+Zara Pillai
+5.0
+5.0
+Humanities and Social Sciences
+Zara Jayaraman
+30000.0
 16.0
 English and Modern Languages
 Zara Venkatesan
-25000.0
-17.0
-Mathematics, Computer Science, and Information Systems
-Isaac Bose
-8.0
-11.0
-English and Modern Languages
-Reyansh Rao
-25000.0
-4.0
-Humanities and Social Sciences
-Saanvi Sengupta
-45000.0
-9.0
-Humanities and Social Sciences
-Potsdam Gupta
-7.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Ananya Venkatesan
-35000.0
-18.0
-Mathematics, Computer Science, and Information Systems
-Aegir Das
-50000.0
-19.0
-Natural Sciences
-Daksh Sen
-45000.0
-15.0
-Natural Sciences
-Aegir Bose
-5.0
-15.0
-Natural Sciences
-Potsdam Verma
-20000.0
-11.0
-Fine and Performing Arts
-Atharv Bose
-25000.0
-9.0
-Fine and Performing Arts
-Ananya Sengupta
-10000.0
-4.0
-Fine and Performing Arts
-Daksh Venkatesan
-10000.0
-12.0
-Mathematics, Computer Science, and Information Systems
-Isaac Rao
-5.5
-9.0
-Natural Sciences
-Aditi Verma
-45000.0
-13.0
-Professional Education
-Hydra Gupta
-7.0
-3.0
-Humanities and Social Sciences
-Hydra Gupta
-8.0
-8.0
-Mathematics, Computer Science, and Information Systems
-Reyansh Bose
-6.0
-2.0
-English and Modern Languages
-Ananya Gupta
-7.5
-11.0
-Humanities and Social Sciences
-Isaac Bose
 30000.0
-16.0
-Natural Sciences
-Jai Jayaraman
-25000.0
-13.0
+10.0
 Professional Education
-Neel Gupta
-5.0
-14.0
-English and Modern Languages
-Saanvi Rao
+Bertok Das
 6.5
-9.0
-Mathematics, Computer Science, and Information Systems
-Atharv Rao
-40000.0
-19.0
-Fine and Performing Arts
+15.0
+English and Modern Languages
 Aadhya Bose
-45000.0
-4.0
+25000.0
+1.0
 Mathematics, Computer Science, and Information Systems
-Isaac Bose
+Daksh Pillai
 7.0
 1.0
 Mathematics, Computer Science, and Information Systems
+Zara Sen
+7.5
+1.0
+Mathematics, Computer Science, and Information Systems
 Jai Bose
-5.5
+6.0
 19.0
-Natural Sciences
-Hydra Venkatesan
-6.0
-17.0
-English and Modern Languages
-Potsdam Jayaraman
-8.0
-9.0
-Professional Education
-Medusa Sharma
-6.5
-19.0
-Natural Sciences
-Diya Sen
-10000.0
-12.0
 Fine and Performing Arts
-Bertok Bose
-6.0
-12.0
-Fine and Performing Arts
-Reyansh Bose
-8.5
-17.0
-Natural Sciences
-Diya Verma
-6.5
-6.0
-Fine and Performing Arts
-Aegir Das
-20000.0
-10.0
-Professional Education
-Aditi Jayaraman
-55000.0
-8.0
-Professional Education
-Saanvi Sharma
-30000.0
+Neel Venkatesan
+7.0
 16.0
-Mathematics, Computer Science, and Information Systems
-Medusa Sharma
+Natural Sciences
+Aadhya Venkatesan
 7.0
-17.0
-Natural Sciences
-Reyansh Gupta
-50000.0
-15.0
-Natural Sciences
-Aegir Das
-50000.0
-17.0
-Humanities and Social Sciences
-Hydra Das
+7.0
+Mathematics, Computer Science, and Information Systems
+Neel Sharma
+10000.0
+6.0
+English and Modern Languages
+Daksh Das
 45000.0
-7.0
-English and Modern Languages
-Hydra Bose
+6.0
+Fine and Performing Arts
+Daksh Sengupta
 8.5
-8.0
-Mathematics, Computer Science, and Information Systems
-Saanvi Sen
-50000.0
-11.0
+18.0
+Natural Sciences
+Daksh Bose
+5.0
+14.0
+Natural Sciences
+Diya Venkatesan
+5.5
+2.0
+Professional Education
+Diya Rao
+7.5
+5.0
+Fine and Performing Arts
+Jai Pillai
+5.5
+5.0
+Humanities and Social Sciences
+Aegir Verma
+15000.0
+6.0
 English and Modern Languages
+Aditi Sen
+15000.0
+1.0
+Humanities and Social Sciences
 Daksh Sengupta
 5.5
-4.0
-English and Modern Languages
-Neel Rao
-15000.0
-8.0
-Mathematics, Computer Science, and Information Systems
-Aadhya Sharma
-35000.0
-17.0
-Fine and Performing Arts
-Neptun Sengupta
-6.0
+10.0
+Natural Sciences
+Reyansh Das
+6.5
 15.0
 English and Modern Languages
-Bertok Sharma
+Ananya Venkatesan
+25000.0
+12.0
+English and Modern Languages
+Aditi Venkatesan
+6.5
+6.0
+Fine and Performing Arts
+Diya Pillai
 7.5
 3.0
-Natural Sciences
-Saanvi Sen
-10000.0
-7.0
-Natural Sciences
-Potsdam Sen
-55000.0
-0.0
-Humanities and Social Sciences
-Hydra Sengupta
-8.5
-14.0
-English and Modern Languages
-Medusa Sen
-10000.0
-17.0
-Mathematics, Computer Science, and Information Systems
-Bertok Das
-8.0
-6.0
-English and Modern Languages
-Medusa Verma
-5.0
-11.0
-Professional Education
-Jai Bose
-5.5
-8.0
-Natural Sciences
-Aadhya Gupta
-6.5
-5.0
-Professional Education
-Aadhya Jayaraman
-40000.0
-14.0
-Fine and Performing Arts
-Hydra Gupta
-5.0
-6.0
-Humanities and Social Sciences
-Isaac Sengupta
-10000.0
-7.0
 Fine and Performing Arts
 Aditi Rao
-30000.0
+8.0
+7.0
+English and Modern Languages
+Saanvi Sen
+8.5
 17.0
 Fine and Performing Arts
-Medusa Verma
+Atharv Sengupta
+7.0
+12.0
+Professional Education
+Jai Verma
 5.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Jai Bose
+4.0
+Professional Education
+Ananya Jayaraman
+8.0
+9.0
+Fine and Performing Arts
+Aegir Verma
 7.5
 4.0
-Mathematics, Computer Science, and Information Systems
-Daksh Jayaraman
-8.0
-6.0
-English and Modern Languages
-Isaac Sengupta
-6.0
-5.0
-English and Modern Languages
-Neel Jayaraman
-25000.0
-2.0
-Fine and Performing Arts
-Zara Sharma
-35000.0
-11.0
 Natural Sciences
-Diya Rao
-6.0
-19.0
-Fine and Performing Arts
-Bertok Das
-8.0
-16.0
-Mathematics, Computer Science, and Information Systems
-Hydra Sharma
-8.0
-14.0
-Natural Sciences
-Aadhya Sen
-50000.0
-10.0
-English and Modern Languages
-Neptun Pillai
-40000.0
-3.0
-Mathematics, Computer Science, and Information Systems
-Aegir Verma
-20000.0
-1.0
-Fine and Performing Arts
-Medusa Sen
-6.0
-6.0
-Mathematics, Computer Science, and Information Systems
-Aditi Sengupta
-15000.0
-2.0
-Humanities and Social Sciences
-Aegir Sen
-7.0
-7.0
-Natural Sciences
-Aegir Jayaraman
-35000.0
-12.0
-Natural Sciences
-Ananya Sen
-45000.0
-17.0
-Humanities and Social Sciences
-Medusa Bose
-45000.0
-12.0
-Fine and Performing Arts
-Diya Verma
-5.0
-1.0
-Mathematics, Computer Science, and Information Systems
-Aditi Verma
-5.0
-1.0
-Mathematics, Computer Science, and Information Systems
-Aadhya Pillai
-7.0
-13.0
-English and Modern Languages
-Neel Venkatesan
-5.0
-19.0
-Mathematics, Computer Science, and Information Systems
-Aegir Sharma
+Neel Sharma
 10000.0
-11.0
+2.0
 Natural Sciences
-Medusa Bose
-20000.0
-7.0
-Fine and Performing Arts
-Daksh Sen
-45000.0
-10.0
-Fine and Performing Arts
-Diya Sen
-45000.0
-18.0
-Mathematics, Computer Science, and Information Systems
-Medusa Sen
-50000.0
+Isaac Pillai
+55000.0
 13.0
-Professional Education
-Aditi Pillai
-10000.0
-17.0
-Professional Education
-Aegir Sharma
-7.0
+Humanities and Social Sciences
+Jai Venkatesan
+5.5
 15.0
 Fine and Performing Arts
-Hydra Bose
-40000.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Aditi Pillai
-40000.0
-10.0
-English and Modern Languages
-Neptun Jayaraman
-8.5
-1.0
-Natural Sciences
-Aditi Gupta
-35000.0
-16.0
-English and Modern Languages
-Isaac Das
-55000.0
+Aditi Bose
 5.0
-Mathematics, Computer Science, and Information Systems
-Reyansh Gupta
-5.0
-0.0
-Fine and Performing Arts
-Saanvi Sen
-55000.0
-16.0
-English and Modern Languages
-Aadhya Sen
-30000.0
-14.0
-English and Modern Languages
-Neel Sengupta
-7.0
-5.0
-Natural Sciences
-Daksh Sen
-50000.0
-3.0
-Fine and Performing Arts
-Medusa Sengupta
-20000.0
-10.0
-Professional Education
-Bertok Jayaraman
-8.5
-2.0
-Humanities and Social Sciences
-Saanvi Rao
-25000.0
 13.0
-Humanities and Social Sciences
-Neel Pillai
-6.0
-13.0
-Professional Education
-Aegir Bose
-7.0
-2.0
-Natural Sciences
+Fine and Performing Arts
 Atharv Sengupta
-15000.0
-14.0
-Professional Education
-Aditi Gupta
-50000.0
-1.0
-English and Modern Languages
-Neptun Sengupta
-20000.0
-8.0
-Natural Sciences
-Reyansh Verma
-50000.0
-13.0
-Mathematics, Computer Science, and Information Systems
-Hydra Bose
-7.5
-11.0
-Fine and Performing Arts
-Aditi Sen
-6.5
-13.0
-Natural Sciences
-Ananya Gupta
-20000.0
-4.0
-Humanities and Social Sciences
-Jai Sengupta
-6.0
-7.0
-Fine and Performing Arts
-Aadhya Bose
-5.0
-17.0
-Humanities and Social Sciences
-Jai Pillai
-15000.0
-12.0
-Humanities and Social Sciences
-Aditi Sengupta
-45000.0
-6.0
-Mathematics, Computer Science, and Information Systems
-Neel Verma
-35000.0
-3.0
-English and Modern Languages
-Isaac Das
-5.0
-14.0
-Natural Sciences
-Bertok Das
-10000.0
-1.0
-Professional Education
-Daksh Bose
-8.5
-3.0
-Humanities and Social Sciences
-Aadhya Sharma
-20000.0
-10.0
-Fine and Performing Arts
-Atharv Jayaraman
-6.0
-5.0
-Mathematics, Computer Science, and Information Systems
-Saanvi Sharma
-15000.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Ananya Jayaraman
-5.0
-11.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Bose
 25000.0
-16.0
-Humanities and Social Sciences
-Diya Sengupta
-5.5
-18.0
-Fine and Performing Arts
-Potsdam Bose
-10000.0
-16.0
-Professional Education
-Saanvi Jayaraman
-5.5
-5.0
-Natural Sciences
-Neptun Gupta
-20000.0
-16.0
-Natural Sciences
-Diya Gupta
-10000.0
-2.0
-English and Modern Languages
-Neel Venkatesan
-10000.0
-8.0
-Fine and Performing Arts
-Potsdam Sen
-40000.0
-4.0
-Natural Sciences
-Isaac Sen
-10000.0
-18.0
-Professional Education
-Daksh Jayaraman
-7.0
-10.0
-Humanities and Social Sciences
-Neptun Das
-5.0
-4.0
-Fine and Performing Arts
-Atharv Bose
-30000.0
-1.0
-Mathematics, Computer Science, and Information Systems
-Daksh Sharma
-7.5
-13.0
-Fine and Performing Arts
-Hydra Jayaraman
-30000.0
-7.0
-Fine and Performing Arts
-Isaac Sengupta
-5.0
 11.0
-Humanities and Social Sciences
-Isaac Venkatesan
-20000.0
-10.0
-Natural Sciences
-Aditi Jayaraman
-7.5
-19.0
 English and Modern Languages
-Zara Bose
-40000.0
-1.0
-Professional Education
-Diya Sharma
-7.5
-1.0
-Mathematics, Computer Science, and Information Systems
-Jai Gupta
+Reyansh Bose
 20000.0
-0.0
-English and Modern Languages
-Daksh Bose
-50000.0
-7.0
-Mathematics, Computer Science, and Information Systems
-Medusa Das
 6.0
-8.0
 Natural Sciences
-Aditi Venkatesan
+Zara Verma
 45000.0
-11.0
+2.0
+Humanities and Social Sciences
+Aegir Rao
+20000.0
+15.0
+Fine and Performing Arts
+Aegir Rao
+7.5
+2.0
 Professional Education
-Saanvi Bose
-50000.0
-0.0
-English and Modern Languages
-Reyansh Das
-8.0
-13.0
-Professional Education
-Saanvi Sen
-8.5
-14.0
-Professional Education
-Aegir Verma
-35000.0
-11.0
-Natural Sciences
 Aadhya Venkatesan
 6.5
 17.0
 English and Modern Languages
-Hydra Rao
-8.0
-15.0
-Fine and Performing Arts
-Diya Rao
-5.5
-12.0
-English and Modern Languages
-Daksh Pillai
-30000.0
-10.0
-Humanities and Social Sciences
-Saanvi Das
-8.0
-1.0
-Humanities and Social Sciences
-Medusa Sen
-40000.0
+Bertok Sen
 5.0
+4.0
 Natural Sciences
-Atharv Venkatesan
-7.5
-15.0
-Mathematics, Computer Science, and Information Systems
-Isaac Venkatesan
-7.5
-17.0
-Natural Sciences
-Potsdam Jayaraman
-55000.0
-12.0
-English and Modern Languages
 Reyansh Sen
-8.5
-2.0
-Mathematics, Computer Science, and Information Systems
-Atharv Das
 25000.0
-16.0
-Humanities and Social Sciences
-Neel Sengupta
-8.5
-9.0
-English and Modern Languages
-Atharv Venkatesan
-45000.0
-16.0
-Humanities and Social Sciences
-Aadhya Sengupta
-6.5
-9.0
-Natural Sciences
-Hydra Sharma
-15000.0
 1.0
 Mathematics, Computer Science, and Information Systems
-Atharv Venkatesan
+Isaac Sharma
+5.5
 5.0
-10.0
-English and Modern Languages
-Atharv Gupta
-30000.0
-17.0
-Natural Sciences
-Saanvi Jayaraman
-20000.0
-12.0
-Professional Education
-Bertok Jayaraman
-10000.0
-6.0
-Natural Sciences
-Atharv Das
-6.5
-12.0
-Professional Education
-Aegir Jayaraman
-8.5
-12.0
-Professional Education
-Neel Jayaraman
-7.0
-7.0
-Professional Education
-Medusa Gupta
-40000.0
-5.0
-Professional Education
-Saanvi Gupta
-7.5
-5.0
-Professional Education
-Aegir Gupta
-8.0
-14.0
-Mathematics, Computer Science, and Information Systems
-Medusa Verma
-50000.0
-1.0
-Humanities and Social Sciences
-Medusa Sharma
-30000.0
-16.0
-Fine and Performing Arts
-Aditi Pillai
-10000.0
-16.0
-Mathematics, Computer Science, and Information Systems
-Reyansh Gupta
-10000.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Ananya Sharma
-7.5
-6.0
-Humanities and Social Sciences
-Neptun Verma
-35000.0
-11.0
-Natural Sciences
-Neel Sen
-15000.0
-14.0
-Natural Sciences
-Aadhya Sen
-8.5
-3.0
-Professional Education
-Hydra Gupta
-30000.0
-7.0
-Fine and Performing Arts
-Potsdam Gupta
-45000.0
-18.0
 English and Modern Languages
 Daksh Sharma
-6.5
-14.0
-English and Modern Languages
-Bertok Pillai
-6.5
-12.0
-Mathematics, Computer Science, and Information Systems
-Hydra Pillai
-50000.0
-11.0
-English and Modern Languages
-Aegir Sen
-5.0
-9.0
-English and Modern Languages
-Aegir Verma
-8.5
-4.0
-Humanities and Social Sciences
-Bertok Bose
-35000.0
-3.0
-English and Modern Languages
-Potsdam Das
-8.5
-18.0
-Natural Sciences
-Ananya Rao
-5.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Aegir Rao
-35000.0
-14.0
-Fine and Performing Arts
-Aditi Pillai
-6.5
-8.0
-Fine and Performing Arts
-Diya Sharma
-45000.0
-17.0
-Humanities and Social Sciences
-Diya Rao
-7.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Aegir Pillai
-15000.0
-9.0
-Fine and Performing Arts
-Potsdam Sen
-6.0
-11.0
-Fine and Performing Arts
-Aegir Gupta
-6.5
-0.0
-Fine and Performing Arts
-Zara Sengupta
-5.0
-6.0
-English and Modern Languages
-Potsdam Jayaraman
-8.5
-16.0
-Humanities and Social Sciences
-Jai Rao
-25000.0
-16.0
-Humanities and Social Sciences
-Saanvi Pillai
-6.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Rao
-8.5
-18.0
-Natural Sciences
-Hydra Pillai
-35000.0
-5.0
-Humanities and Social Sciences
-Aadhya Sen
 10000.0
-10.0
-Natural Sciences
-Diya Gupta
-8.0
-5.0
-Humanities and Social Sciences
-Isaac Sharma
-7.0
-9.0
-Natural Sciences
-Bertok Bose
-7.0
-14.0
-Fine and Performing Arts
-Daksh Venkatesan
-45000.0
-4.0
-English and Modern Languages
-Diya Sharma
-10000.0
-10.0
-Fine and Performing Arts
-Zara Gupta
-7.5
-5.0
-Fine and Performing Arts
-Neptun Pillai
-8.0
-5.0
-English and Modern Languages
-Aegir Jayaraman
-8.5
-9.0
-Professional Education
-Medusa Sen
-5.5
-3.0
-Mathematics, Computer Science, and Information Systems
-Neptun Sengupta
-20000.0
-6.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Verma
-10000.0
-10.0
-English and Modern Languages
-Aegir Jayaraman
-8.0
-2.0
-Natural Sciences
-Saanvi Sengupta
-8.0
-18.0
-Mathematics, Computer Science, and Information Systems
-Medusa Jayaraman
-50000.0
-19.0
-Humanities and Social Sciences
-Diya Venkatesan
-5.5
-0.0
-English and Modern Languages
-Zara Sengupta
-20000.0
-12.0
-Fine and Performing Arts
-Atharv Das
-45000.0
-11.0
-English and Modern Languages
-Zara Sen
-35000.0
-8.0
-Natural Sciences
-Diya Venkatesan
-8.0
-12.0
-Fine and Performing Arts
-Hydra Bose
-8.5
-12.0
-Mathematics, Computer Science, and Information Systems
-Isaac Sen
-45000.0
 1.0
-English and Modern Languages
-Ananya Sengupta
-10000.0
-2.0
-Natural Sciences
-Diya Jayaraman
-10000.0
-0.0
-Professional Education
-Zara Bose
-6.0
-12.0
-English and Modern Languages
-Aditi Sharma
-7.0
-10.0
-Mathematics, Computer Science, and Information Systems
-Aegir Sengupta
-7.0
-7.0
-Fine and Performing Arts
-Neel Rao
-5.5
-14.0
-Professional Education
-Medusa Bose
-5.5
-19.0
-Natural Sciences
-Potsdam Rao
-55000.0
-6.0
-Natural Sciences
-Saanvi Bose
-50000.0
-15.0
-Professional Education
-Saanvi Bose
-5.0
-3.0
-Natural Sciences
-Neptun Das
-40000.0
-9.0
-Humanities and Social Sciences
-Aegir Bose
-35000.0
-17.0
-Professional Education
-Reyansh Rao
-40000.0
-3.0
-Mathematics, Computer Science, and Information Systems
-Neel Pillai
-5.0
-17.0
-English and Modern Languages
-Hydra Sharma
-15000.0
-15.0
-Professional Education
-Atharv Sengupta
-6.5
-12.0
-English and Modern Languages
-Aditi Verma
-8.5
-3.0
-Mathematics, Computer Science, and Information Systems
-Aadhya Gupta
-25000.0
-0.0
-Fine and Performing Arts
-Saanvi Sharma
-6.0
-7.0
-Fine and Performing Arts
-Neptun Venkatesan
-7.0
-0.0
-Humanities and Social Sciences
-Saanvi Sharma
-15000.0
-14.0
-Humanities and Social Sciences
-Ananya Verma
-5.5
-1.0
-Natural Sciences
-Bertok Sengupta
-35000.0
-0.0
-Natural Sciences
-Isaac Sengupta
-45000.0
-11.0
-Professional Education
-Jai Gupta
-15000.0
-6.0
-Humanities and Social Sciences
-Neptun Sharma
-6.5
-4.0
-Mathematics, Computer Science, and Information Systems
-Medusa Pillai
-6.5
-14.0
-English and Modern Languages
-Diya Rao
-6.5
-4.0
-Fine and Performing Arts
-Potsdam Jayaraman
-8.0
-3.0
-Fine and Performing Arts
-Aditi Jayaraman
-45000.0
-16.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Jayaraman
-5.0
-3.0
-Natural Sciences
-Daksh Venkatesan
-55000.0
-16.0
-Fine and Performing Arts
-Medusa Sen
-7.0
-0.0
-Natural Sciences
-Daksh Venkatesan
-55000.0
-19.0
-English and Modern Languages
-Daksh Jayaraman
-8.5
-15.0
-Mathematics, Computer Science, and Information Systems
-Hydra Sen
-8.0
-16.0
-Humanities and Social Sciences
-Hydra Jayaraman
-7.5
-12.0
-Humanities and Social Sciences
-Saanvi Das
-45000.0
-14.0
-Fine and Performing Arts
-Daksh Das
-8.0
-3.0
 Natural Sciences
 Isaac Rao
-8.0
-0.0
-Humanities and Social Sciences
-Hydra Jayaraman
-55000.0
-16.0
-Mathematics, Computer Science, and Information Systems
-Isaac Pillai
-25000.0
-11.0
-Natural Sciences
-Zara Sen
-45000.0
-11.0
-Mathematics, Computer Science, and Information Systems
-Ananya Sen
-8.5
+6.0
+19.0
+English and Modern Languages
+Reyansh Das
+5.5
+10.0
+English and Modern Languages
+Jai Rao
+20000.0
+5.0
+Professional Education
+Daksh Pillai
+10000.0
 5.0
 English and Modern Languages
-Isaac Verma
+Reyansh Jayaraman
 35000.0
+0.0
+Humanities and Social Sciences
+Jai Rao
+7.5
 8.0
 Professional Education
-Jai Rao
+Jai Sharma
+5.5
+15.0
+English and Modern Languages
+Reyansh Sen
 30000.0
+10.0
+English and Modern Languages
+Aditi Das
+10000.0
+4.0
+English and Modern Languages
+Saanvi Bose
+30000.0
+7.0
+English and Modern Languages
+Reyansh Sengupta
+8.0
+0.0
+Professional Education
+Bertok Venkatesan
+5.0
+5.0
+Professional Education
+Bertok Gupta
+35000.0
+13.0
+Fine and Performing Arts
+Aadhya Sharma
+5.5
+6.0
+English and Modern Languages
+Isaac Sen
+7.0
+16.0
+Humanities and Social Sciences
+Isaac Rao
+5.0
+14.0
+Natural Sciences
+Aditi Sharma
+5.0
+12.0
+English and Modern Languages
+Neel Rao
+5.5
+6.0
+Natural Sciences
+Aditi Pillai
+10000.0
+5.0
+Professional Education
+Reyansh Jayaraman
+6.0
+6.0
+Humanities and Social Sciences
+Atharv Pillai
+8.5
+1.0
+Natural Sciences
+Isaac Sen
+10000.0
+15.0
+English and Modern Languages
+Bertok Sharma
+5.0
+14.0
+Fine and Performing Arts
+Diya Jayaraman
+5.0
+11.0
+Fine and Performing Arts
+Isaac Gupta
+8.5
+6.0
+Professional Education
+Isaac Sen
+45000.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Sen
+7.0
+12.0
+Fine and Performing Arts
+Bertok Venkatesan
+8.0
+19.0
+English and Modern Languages
+Zara Sharma
+5.5
+13.0
+Professional Education
+Aegir Das
+5.5
+10.0
+Humanities and Social Sciences
+Daksh Verma
+6.5
+0.0
+English and Modern Languages
+Aadhya Gupta
+45000.0
+12.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Rao
+6.5
+0.0
+English and Modern Languages
+Aadhya Sen
+45000.0
+2.0
+Natural Sciences
+Daksh Sengupta
+50000.0
+3.0
+Fine and Performing Arts
+Diya Rao
+50000.0
+4.0
+English and Modern Languages
+Aditi Das
+5.5
+11.0
+Fine and Performing Arts
+Saanvi Venkatesan
+35000.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Venkatesan
+20000.0
+0.0
+Fine and Performing Arts
+Reyansh Venkatesan
+5.0
+10.0
+Humanities and Social Sciences
+Reyansh Sengupta
+35000.0
+0.0
+Natural Sciences
+Atharv Verma
+40000.0
+10.0
+Natural Sciences
+Reyansh Pillai
+50000.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Bertok Jayaraman
+6.0
+13.0
+Mathematics, Computer Science, and Information Systems
+Aditi Bose
+6.0
+16.0
+Natural Sciences
+Diya Das
+45000.0
+17.0
+Professional Education
+Bertok Das
+10000.0
+18.0
+Natural Sciences
+Diya Rao
+5.5
+3.0
+Humanities and Social Sciences
+Jai Pillai
+5.0
+17.0
+Fine and Performing Arts
+Reyansh Venkatesan
+7.5
+13.0
+Mathematics, Computer Science, and Information Systems
+Daksh Sharma
+8.0
+1.0
+English and Modern Languages
+Bertok Bose
+40000.0
+14.0
+English and Modern Languages
+Aditi Venkatesan
+5.5
+3.0
+English and Modern Languages
+Bertok Rao
+6.0
+17.0
+English and Modern Languages
+Atharv Rao
+20000.0
+3.0
+Humanities and Social Sciences
+Zara Sharma
+20000.0
+5.0
+Humanities and Social Sciences
+Diya Gupta
+25000.0
+12.0
+Humanities and Social Sciences
+Isaac Verma
+10000.0
+9.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Sharma
+7.0
+14.0
+Professional Education
+Diya Verma
+7.0
+3.0
+Natural Sciences
+Zara Das
+10000.0
+0.0
+Natural Sciences
+Neel Verma
+30000.0
+6.0
+Natural Sciences
+Isaac Rao
+7.0
+18.0
+Mathematics, Computer Science, and Information Systems
+Neel Sengupta
+20000.0
+3.0
+Natural Sciences
+Atharv Venkatesan
+50000.0
+13.0
+English and Modern Languages
+Atharv Sharma
+50000.0
+11.0
+English and Modern Languages
+Atharv Sengupta
+5.0
+17.0
+Humanities and Social Sciences
+Bertok Jayaraman
+40000.0
+8.0
+Humanities and Social Sciences
+Zara Venkatesan
+8.0
+8.0
+Mathematics, Computer Science, and Information Systems
+Daksh Venkatesan
+5.5
+5.0
+Natural Sciences
+Diya Bose
+15000.0
+12.0
+English and Modern Languages
+Diya Sengupta
+15000.0
+1.0
+Fine and Performing Arts
+Jai Sen
+7.0
+5.0
+Mathematics, Computer Science, and Information Systems
+Diya Gupta
+35000.0
+11.0
+Natural Sciences
+Aegir Sharma
+30000.0
+12.0
+Humanities and Social Sciences
+Atharv Das
+45000.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Neel Das
+35000.0
+11.0
+Mathematics, Computer Science, and Information Systems
+Atharv Sharma
+8.5
+2.0
+Humanities and Social Sciences
+Ananya Sengupta
+8.5
+0.0
+Mathematics, Computer Science, and Information Systems
+Atharv Rao
+6.0
+18.0
+Humanities and Social Sciences
+Zara Rao
+50000.0
+8.0
+English and Modern Languages
+Zara Sharma
+55000.0
+6.0
+Fine and Performing Arts
+Isaac Venkatesan
+30000.0
+6.0
+English and Modern Languages
+Ananya Gupta
+7.5
+1.0
+Humanities and Social Sciences
+Bertok Rao
+45000.0
+16.0
+Natural Sciences
+Aegir Verma
+30000.0
+19.0
+Professional Education
+Aadhya Das
+10000.0
+9.0
+English and Modern Languages
+Daksh Rao
+8.5
+15.0
+Mathematics, Computer Science, and Information Systems
+Aditi Rao
+45000.0
+18.0
+Natural Sciences
+Daksh Verma
+8.0
+17.0
+Humanities and Social Sciences
+Aadhya Sharma
+15000.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Zara Gupta
+40000.0
+19.0
+English and Modern Languages
+Bertok Sharma
+20000.0
 8.0
 Humanities and Social Sciences
 Aditi Das
-25000.0
-19.0
-Natural Sciences
-Bertok Sengupta
-45000.0
-14.0
-Mathematics, Computer Science, and Information Systems
-Zara Pillai
-8.0
-8.0
-Fine and Performing Arts
-Atharv Jayaraman
-6.5
-11.0
-Mathematics, Computer Science, and Information Systems
-Saanvi Sen
-10000.0
-19.0
+7.0
+0.0
 English and Modern Languages
-Aadhya Bose
-7.0
-15.0
-Humanities and Social Sciences
-Diya Pillai
-7.0
-10.0
-Professional Education
-Isaac Gupta
-5.5
-17.0
-Natural Sciences
-Saanvi Rao
-10000.0
-7.0
-Humanities and Social Sciences
-Reyansh Sharma
-10000.0
-8.0
-Professional Education
-Neptun Gupta
-35000.0
-17.0
-Fine and Performing Arts
-Neptun Rao
-5.0
-3.0
-English and Modern Languages
-Reyansh Venkatesan
-15000.0
-1.0
-Professional Education
 Isaac Jayaraman
-20000.0
-5.0
-Natural Sciences
-Daksh Sengupta
-20000.0
+8.5
 7.0
-English and Modern Languages
-Potsdam Rao
-6.0
-12.0
-Professional Education
-Diya Pillai
-5.0
-12.0
-Fine and Performing Arts
-Neel Sen
-15000.0
-13.0
 Mathematics, Computer Science, and Information Systems
-Aadhya Sengupta
+Reyansh Pillai
+10000.0
+18.0
+Professional Education
+Saanvi Das
+7.0
+18.0
+English and Modern Languages
+Ananya Jayaraman
 50000.0
+16.0
+English and Modern Languages
+Jai Sengupta
 5.0
-Professional Education
-Diya Jayaraman
-45000.0
-14.0
-Humanities and Social Sciences
-Diya Jayaraman
-15000.0
-12.0
-Professional Education
-Diya Sengupta
-7.0
-13.0
-Professional Education
-Hydra Rao
-5.5
-1.0
-Humanities and Social Sciences
-Medusa Sengupta
-15000.0
-6.0
-Fine and Performing Arts
-Hydra Verma
-7.0
 0.0
-English and Modern Languages
-Daksh Venkatesan
-40000.0
-1.0
-English and Modern Languages
-Diya Bose
-20000.0
-6.0
-Mathematics, Computer Science, and Information Systems
-Aditi Venkatesan
-30000.0
-19.0
-Mathematics, Computer Science, and Information Systems
-Neptun Sengupta
-20000.0
-10.0
-Natural Sciences
-Reyansh Sengupta
+Humanities and Social Sciences
+Zara Jayaraman
 25000.0
-14.0
-English and Modern Languages
-Medusa Venkatesan
-5.5
-2.0
-Fine and Performing Arts
-Aegir Sharma
-8.0
-12.0
-Fine and Performing Arts
-Daksh Das
-5.0
-1.0
-Professional Education
-Aditi Bose
-7.5
-7.0
-Mathematics, Computer Science, and Information Systems
-Zara Das
-8.5
-12.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Bose
-35000.0
-2.0
-Natural Sciences
-Jai Sengupta
-55000.0
-3.0
-English and Modern Languages
-Aditi Venkatesan
-30000.0
-17.0
-Humanities and Social Sciences
-Diya Sen
-5.5
-4.0
-Fine and Performing Arts
-Diya Pillai
-6.5
-6.0
-Mathematics, Computer Science, and Information Systems
-Medusa Sen
-5.0
-0.0
-Natural Sciences
-Bertok Sharma
-8.0
-1.0
-Professional Education
-Aegir Pillai
-45000.0
-6.0
-Professional Education
-Daksh Venkatesan
-7.0
-19.0
-English and Modern Languages
-Aditi Verma
-45000.0
-5.0
-Fine and Performing Arts
-Daksh Bose
-35000.0
-0.0
-Humanities and Social Sciences
-Aegir Sharma
-8.0
-6.0
-Professional Education
-Aegir Venkatesan
-45000.0
-16.0
-Fine and Performing Arts
-Aadhya Pillai
-10000.0
-17.0
-Natural Sciences
-Zara Bose
-6.0
-0.0
-English and Modern Languages
-Bertok Sen
-5.5
-13.0
-Mathematics, Computer Science, and Information Systems
-Isaac Pillai
-10000.0
-11.0
-Fine and Performing Arts
-Neel Jayaraman
-5.5
-5.0
-Mathematics, Computer Science, and Information Systems
-Neel Bose
-35000.0
 11.0
 Natural Sciences
-Diya Sen
-5.5
-18.0
-Humanities and Social Sciences
-Aadhya Bose
-30000.0
-4.0
-Mathematics, Computer Science, and Information Systems
-Daksh Venkatesan
-40000.0
-14.0
-Humanities and Social Sciences
-Aadhya Verma
-8.5
-17.0
-Humanities and Social Sciences
-Saanvi Rao
-8.5
-8.0
-English and Modern Languages
-Atharv Sharma
-5.5
-8.0
-Fine and Performing Arts
-Aegir Venkatesan
-5.5
-18.0
-Natural Sciences
-Jai Sengupta
-5.0
-14.0
-Professional Education
-Diya Gupta
-5.5
-2.0
-Humanities and Social Sciences
-Aegir Sen
-55000.0
-11.0
-English and Modern Languages
-Diya Bose
-10000.0
-15.0
-Professional Education
-Medusa Venkatesan
-5.0
-16.0
-Humanities and Social Sciences
-Reyansh Rao
-6.0
-5.0
-Natural Sciences
-Neel Sen
-20000.0
-0.0
-English and Modern Languages
-Bertok Bose
-7.5
-19.0
-Natural Sciences
-Bertok Bose
-35000.0
-17.0
-Mathematics, Computer Science, and Information Systems
-Medusa Rao
-55000.0
-15.0
-Fine and Performing Arts
-Daksh Gupta
-20000.0
-16.0
-Professional Education
-Aadhya Pillai
+Atharv Bose
 50000.0
-1.0
-English and Modern Languages
-Jai Das
-8.0
-12.0
-Mathematics, Computer Science, and Information Systems
-Daksh Rao
-6.5
-11.0
-English and Modern Languages
-Saanvi Rao
-35000.0
-2.0
-Mathematics, Computer Science, and Information Systems
-Jai Das
-30000.0
-12.0
-Humanities and Social Sciences
-Aadhya Sengupta
-50000.0
-9.0
-Natural Sciences
-Neptun Venkatesan
-8.0
-5.0
-Fine and Performing Arts
-Atharv Jayaraman
-10000.0
-1.0
-Fine and Performing Arts
-Bertok Sharma
-5.0
-17.0
-Humanities and Social Sciences
-Aadhya Sengupta
-20000.0
-0.0
-English and Modern Languages
-Aadhya Pillai
-7.0
-5.0
+16.0
 Professional Education
-Bertok Pillai
-10000.0
-11.0
+Zara Sen
+15000.0
+12.0
+Humanities and Social Sciences
+Aadhya Gupta
+35000.0
+1.0
 English and Modern Languages
 Aditi Sen
+6.5
+13.0
+Fine and Performing Arts
+Bertok Sengupta
+7.0
+2.0
+Professional Education
+Aadhya Sengupta
+5.0
+5.0
+Professional Education
+Isaac Sharma
+40000.0
+17.0
+English and Modern Languages
+Reyansh Das
+7.0
+12.0
+Humanities and Social Sciences
+Aditi Sengupta
+15000.0
+7.0
+Professional Education
+Zara Venkatesan
+8.0
+0.0
+Natural Sciences
+Aditi Gupta
+40000.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Daksh Gupta
+35000.0
+11.0
+Professional Education
+Ananya Sengupta
+7.5
+11.0
+Professional Education
+Aadhya Sen
+20000.0
+14.0
+Humanities and Social Sciences
+Saanvi Sen
+55000.0
+1.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Das
+8.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Atharv Rao
+40000.0
+17.0
+Natural Sciences
+Aditi Sengupta
+8.5
+2.0
+Fine and Performing Arts
+Zara Gupta
+6.0
+15.0
+Professional Education
+Jai Das
+5.5
+14.0
+Natural Sciences
+Saanvi Sharma
+55000.0
+14.0
+Natural Sciences
+Aegir Sharma
+15000.0
+17.0
+Fine and Performing Arts
+Aegir Pillai
+40000.0
+15.0
+Mathematics, Computer Science, and Information Systems
+Reyansh Bose
+15000.0
+11.0
+Natural Sciences
+Atharv Bose
+30000.0
+11.0
+English and Modern Languages
+Aegir Gupta
+5.5
+11.0
+Mathematics, Computer Science, and Information Systems
+Isaac Rao
+55000.0
+17.0
+Professional Education
+Daksh Sen
+8.0
+17.0
+Natural Sciences
+Aegir Sen
 40000.0
 9.0
+Professional Education
+Ananya Pillai
+6.5
+12.0
+Professional Education
+Aditi Rao
+20000.0
+4.0
+Fine and Performing Arts
+Isaac Jayaraman
+35000.0
+1.0
+Fine and Performing Arts
+Aditi Jayaraman
+8.5
+3.0
+Mathematics, Computer Science, and Information Systems
+Aditi Gupta
+6.5
+11.0
+Professional Education
+Saanvi Venkatesan
+6.5
+17.0
+Professional Education
+Jai Sharma
+50000.0
+9.0
+Mathematics, Computer Science, and Information Systems
+Jai Sharma
+15000.0
+16.0
+Mathematics, Computer Science, and Information Systems
+Atharv Sen
+6.0
+9.0
 Humanities and Social Sciences
-Bertok Sharma
-7.5
+Atharv Das
+35000.0
+6.0
+Natural Sciences
+Reyansh Bose
+30000.0
+13.0
+English and Modern Languages
+Isaac Das
+50000.0
+16.0
+Humanities and Social Sciences
+Aadhya Venkatesan
+5.0
+19.0
+Fine and Performing Arts
+Diya Rao
+20000.0
+2.0
+Professional Education
+Aditi Sen
+8.5
+12.0
+Humanities and Social Sciences
+Reyansh Venkatesan
+8.5
+19.0
+Professional Education
+Atharv Bose
+15000.0
 6.0
 Humanities and Social Sciences
-Jai Bose
-15000.0
-2.0
+Ananya Pillai
+7.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Aegir Jayaraman
+20000.0
+10.0
+Fine and Performing Arts
+Jai Sen
+6.5
+11.0
+Professional Education
+Jai Sengupta
+5.0
+14.0
 English and Modern Languages
+Jai Venkatesan
+6.5
+10.0
+Fine and Performing Arts
+Reyansh Das
+7.0
+6.0
+Humanities and Social Sciences
+Reyansh Jayaraman
+55000.0
+17.0
+English and Modern Languages
+Daksh Rao
+15000.0
+16.0
+Fine and Performing Arts
+Aegir Pillai
+5.0
+8.0
+English and Modern Languages
+Zara Verma
+7.5
+15.0
+Mathematics, Computer Science, and Information Systems
+Bertok Sengupta
+10000.0
+4.0
+Natural Sciences
+Jai Verma
+6.5
+9.0
+Professional Education
+Daksh Pillai
+6.0
+0.0
+Natural Sciences
+Jai Sengupta
+55000.0
+2.0
+Fine and Performing Arts
+Aditi Verma
+40000.0
+17.0
+Humanities and Social Sciences
+Atharv Gupta
+6.5
+1.0
+Mathematics, Computer Science, and Information Systems
+Reyansh Gupta
+8.5
+14.0
+Humanities and Social Sciences
+Bertok Pillai
+7.5
+6.0
+Mathematics, Computer Science, and Information Systems
+Zara Bose
+10000.0
+17.0
+Fine and Performing Arts
+Diya Sen
+5.0
+17.0
+Fine and Performing Arts
+Atharv Das
+5.0
+17.0
+Humanities and Social Sciences
+Aadhya Sharma
+40000.0
+9.0
+Mathematics, Computer Science, and Information Systems
 Daksh Bose
 5.0
+16.0
+Professional Education
+Isaac Das
+25000.0
+3.0
+Natural Sciences
+Isaac Pillai
+20000.0
+13.0
+English and Modern Languages
+Ananya Pillai
+5.5
+13.0
+Humanities and Social Sciences
+Aadhya Jayaraman
+7.0
+14.0
+Professional Education
+Zara Bose
+6.5
+16.0
+Humanities and Social Sciences
+Diya Jayaraman
+40000.0
+3.0
+Natural Sciences
+Isaac Venkatesan
+20000.0
+18.0
+Professional Education
+Neel Sen
+45000.0
+2.0
+Professional Education
+Zara Bose
+5.5
+11.0
+Fine and Performing Arts
+Jai Verma
+5.5
+6.0
+Humanities and Social Sciences
+Isaac Sen
+8.0
+18.0
+Natural Sciences
+Diya Verma
+6.0
+17.0
+Humanities and Social Sciences
+Aadhya Venkatesan
+8.0
+12.0
+Mathematics, Computer Science, and Information Systems
+Atharv Pillai
+6.0
+4.0
+Fine and Performing Arts
+Neel Verma
+8.0
+2.0
+Professional Education
+Aadhya Jayaraman
+8.5
+12.0
+Professional Education
+Reyansh Verma
+50000.0
+5.0
+Professional Education
+Aegir Venkatesan
+5.5
+17.0
+Natural Sciences
+Aadhya Das
+6.5
+15.0
+Fine and Performing Arts
+Aditi Sen
+45000.0
+15.0
+Professional Education
+Ananya Das
+20000.0
+17.0
+Mathematics, Computer Science, and Information Systems
+Zara Bose
+15000.0
+11.0
+Mathematics, Computer Science, and Information Systems
+Atharv Rao
+25000.0
+8.0
+Humanities and Social Sciences
+Reyansh Sengupta
+8.0
+4.0
+English and Modern Languages
+Bertok Jayaraman
+5.0
+17.0
+Natural Sciences
+Saanvi Venkatesan
+7.5
+16.0
+Professional Education
+Aadhya Bose
+6.5
+5.0
+Mathematics, Computer Science, and Information Systems
+Atharv Das
+5.0
+13.0
+Humanities and Social Sciences
+Aditi Pillai
+30000.0
+19.0
+Humanities and Social Sciences
+Bertok Sengupta
+8.5
+8.0
+Professional Education
+Isaac Verma
+8.0
+2.0
+English and Modern Languages
+Diya Rao
+7.0
+6.0
+Fine and Performing Arts
+Reyansh Sengupta
+10000.0
+2.0
+English and Modern Languages
+Diya Pillai
+6.0
+15.0
+Mathematics, Computer Science, and Information Systems
+Aegir Sengupta
+5.0
+9.0
+Fine and Performing Arts
+Ananya Bose
+25000.0
+15.0
+Professional Education
+Saanvi Sengupta
+7.0
+11.0
+Professional Education
+Atharv Gupta
+40000.0
+9.0
+Professional Education
+Ananya Sharma
+5.0
+11.0
+Humanities and Social Sciences
+Aadhya Pillai
+6.0
+4.0
+Fine and Performing Arts
+Daksh Pillai
+45000.0
+14.0
+Mathematics, Computer Science, and Information Systems
+Neel Sharma
+15000.0
+14.0
+Humanities and Social Sciences
+Neel Bose
+25000.0
+13.0
+Professional Education
+Bertok Sharma
+30000.0
+5.0
+English and Modern Languages
+Daksh Bose
+45000.0
+0.0
+Professional Education
+Zara Pillai
+10000.0
+6.0
+Fine and Performing Arts
+Aegir Sen
+7.0
+17.0
+Professional Education
+Aditi Verma
+6.0
+17.0
+English and Modern Languages
+Isaac Jayaraman
+6.5
+14.0
+Humanities and Social Sciences
+Saanvi Jayaraman
+5.5
+1.0
+Natural Sciences
+Reyansh Gupta
+7.0
+1.0
+Professional Education
+Jai Das
+7.0
+16.0
+Humanities and Social Sciences
+Bertok Bose
+6.0
+10.0
+Fine and Performing Arts
+Aditi Gupta
+7.5
+10.0
+Humanities and Social Sciences
+Jai Pillai
+8.0
+5.0
+Mathematics, Computer Science, and Information Systems
+Aegir Sen
+20000.0
+14.0
+Mathematics, Computer Science, and Information Systems
+Bertok Rao
+10000.0
+5.0
+Mathematics, Computer Science, and Information Systems
+Atharv Sen
+35000.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Isaac Jayaraman
+25000.0
+16.0
+Humanities and Social Sciences
+Zara Rao
+20000.0
+6.0
+English and Modern Languages
+Reyansh Verma
+5.0
+15.0
+English and Modern Languages
+Isaac Rao
+15000.0
+5.0
+Mathematics, Computer Science, and Information Systems
+Zara Gupta
+35000.0
+7.0
+Natural Sciences
+Saanvi Verma
+35000.0
+11.0
+Natural Sciences
+Bertok Rao
+7.5
+18.0
+Fine and Performing Arts
+Jai Bose
+6.5
+1.0
+Professional Education
+Aegir Sen
+15000.0
+3.0
+Mathematics, Computer Science, and Information Systems
+Isaac Sengupta
+5.5
+18.0
+Humanities and Social Sciences
+Aegir Verma
+55000.0
+9.0
+Fine and Performing Arts
+Saanvi Jayaraman
+7.5
+4.0
+English and Modern Languages
+Jai Sen
+6.5
+6.0
+Professional Education
+Atharv Das
+6.5
+13.0
+Natural Sciences
+Isaac Gupta
+7.0
+1.0
+Fine and Performing Arts
+Daksh Sen
+15000.0
+0.0
+Fine and Performing Arts
+Zara Rao
+5.5
+9.0
+Humanities and Social Sciences
+Atharv Jayaraman
+6.0
+0.0
+Humanities and Social Sciences
+Ananya Sen
+7.0
+16.0
+Natural Sciences
+Jai Venkatesan
+30000.0
+14.0
+Humanities and Social Sciences
+Neel Jayaraman
+45000.0
+15.0
+Professional Education
+Neel Jayaraman
+10000.0
+9.0
+Humanities and Social Sciences
+Neel Gupta
+55000.0
+12.0
+English and Modern Languages
+Bertok Pillai
+35000.0
+3.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Rao
+6.0
+1.0
+Mathematics, Computer Science, and Information Systems
+Diya Gupta
+40000.0
+10.0
+Fine and Performing Arts
+Diya Venkatesan
+7.5
+1.0
+Fine and Performing Arts
+Ananya Sharma
+15000.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Venkatesan
+7.0
+13.0
+Humanities and Social Sciences
+Aditi Sharma
+7.0
+15.0
+Humanities and Social Sciences
+Daksh Verma
+20000.0
+18.0
+English and Modern Languages
+Diya Jayaraman
+5.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Aditi Bose
+7.0
+12.0
+English and Modern Languages
+Saanvi Sengupta
+20000.0
+11.0
+Professional Education
+Zara Pillai
+6.0
+17.0
+Humanities and Social Sciences
+Bertok Rao
+7.5
+2.0
+Fine and Performing Arts
+Zara Verma
+5.0
+6.0
+Fine and Performing Arts
+Bertok Sen
+40000.0
+18.0
+English and Modern Languages
+Aadhya Bose
+6.0
+18.0
+Professional Education
+Daksh Sharma
+15000.0
+18.0
+Humanities and Social Sciences
+Jai Rao
+8.5
+12.0
+Natural Sciences
+Saanvi Bose
+6.5
+18.0
+Natural Sciences
+Isaac Das
+8.5
+9.0
+Natural Sciences
+Saanvi Pillai
+50000.0
+3.0
+English and Modern Languages
+Neel Pillai
+25000.0
+19.0
+Natural Sciences
+Daksh Pillai
+7.0
+1.0
+Natural Sciences
+Aegir Sengupta
+55000.0
+19.0
+Natural Sciences
+Aditi Gupta
+50000.0
+1.0
+English and Modern Languages
+Aadhya Sengupta
+30000.0
+13.0
+Mathematics, Computer Science, and Information Systems
+Zara Bose
+5.0
+18.0
+Natural Sciences
+Ananya Jayaraman
+6.5
+3.0
+Fine and Performing Arts
+Ananya Sharma
+10000.0
+13.0
+English and Modern Languages
+Aegir Sengupta
+35000.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Diya Das
+10000.0
+19.0
+Professional Education
+Jai Rao
+20000.0
+1.0
+Fine and Performing Arts
+Reyansh Rao
+15000.0
+12.0
+Professional Education
+Jai Rao
+55000.0
+2.0
+Fine and Performing Arts
+Saanvi Sharma
+5.0
+16.0
+Professional Education
+Isaac Venkatesan
+55000.0
+10.0
+Fine and Performing Arts
+Aadhya Sengupta
+7.5
+18.0
+Mathematics, Computer Science, and Information Systems
+Atharv Das
+6.5
+7.0
+English and Modern Languages
+Reyansh Venkatesan
+5.0
+14.0
+Fine and Performing Arts
+Daksh Bose
+6.5
+3.0
+Fine and Performing Arts
+Bertok Sharma
+30000.0
+0.0
+Professional Education
+Bertok Sengupta
+10000.0
+7.0
+Fine and Performing Arts
+Aegir Das
+7.5
+12.0
+Fine and Performing Arts
+Reyansh Bose
+8.5
+11.0
+Professional Education
+Isaac Sengupta
+5.0
+16.0
+English and Modern Languages
+Reyansh Gupta
+25000.0
+1.0
+Humanities and Social Sciences
+Zara Gupta
+8.0
+12.0
+Humanities and Social Sciences
+Aditi Pillai
+30000.0
+11.0
+Mathematics, Computer Science, and Information Systems
+Aegir Jayaraman
+5.0
+7.0
+Humanities and Social Sciences
+Aditi Venkatesan
+7.5
+18.0
+English and Modern Languages
+Daksh Gupta
+55000.0
+16.0
+Natural Sciences
+Saanvi Sengupta
+6.0
+13.0
+Professional Education
+Neel Sengupta
+15000.0
+9.0
+Fine and Performing Arts
+Aadhya Pillai
+20000.0
+8.0
+Mathematics, Computer Science, and Information Systems
+Zara Pillai
+7.5
+19.0
+Professional Education
+Bertok Sharma
+10000.0
+11.0
+English and Modern Languages
+Isaac Gupta
+40000.0
+9.0
+Fine and Performing Arts
+Jai Pillai
+7.0
+18.0
+English and Modern Languages
+Saanvi Sengupta
+40000.0
+17.0
+Natural Sciences
+Atharv Das
+15000.0
+4.0
+Natural Sciences
+Jai Venkatesan
+25000.0
+16.0
+Mathematics, Computer Science, and Information Systems
+Diya Gupta
+6.5
+19.0
+Professional Education
+Aegir Rao
+7.5
+15.0
+Humanities and Social Sciences
+Jai Pillai
+50000.0
+5.0
+English and Modern Languages
+Daksh Sen
+50000.0
+14.0
+Professional Education
+Isaac Sen
+8.0
+7.0
+Fine and Performing Arts
+Aegir Das
+6.5
+18.0
+Natural Sciences
+Zara Das
+35000.0
+6.0
+Natural Sciences
+Daksh Venkatesan
+40000.0
+12.0
+Professional Education
+Atharv Pillai
+8.0
+5.0
+Fine and Performing Arts
+Saanvi Bose
+7.5
+11.0
+English and Modern Languages
+Aditi Rao
+8.5
+17.0
+Natural Sciences
+Aditi Sen
+25000.0
+5.0
+Professional Education
+Jai Bose
+6.5
+5.0
+Mathematics, Computer Science, and Information Systems
+Diya Gupta
+7.5
+6.0
+Professional Education
+Diya Das
+50000.0
+14.0
+Professional Education
+Daksh Rao
+10000.0
+2.0
+Natural Sciences
+Diya Sen
+5.5
+16.0
+Mathematics, Computer Science, and Information Systems
+Ananya Pillai
+5.5
+10.0
+Mathematics, Computer Science, and Information Systems
+Isaac Rao
+15000.0
+12.0
+Fine and Performing Arts
+Zara Sen
+50000.0
+4.0
+Professional Education
+Atharv Verma
+40000.0
+7.0
+Fine and Performing Arts
+Reyansh Sen
+7.5
+2.0
+Natural Sciences
+Saanvi Jayaraman
+55000.0
+19.0
+Professional Education
+Jai Gupta
+10000.0
+13.0
+Humanities and Social Sciences
+Ananya Jayaraman
+15000.0
+14.0
+English and Modern Languages
+Aditi Bose
+6.5
+7.0
+English and Modern Languages
+Saanvi Das
+7.0
+17.0
+Professional Education
+Zara Sen
+15000.0
+2.0
+Mathematics, Computer Science, and Information Systems
+Jai Pillai
+45000.0
+7.0
+Humanities and Social Sciences
+Neel Bose
+7.5
+13.0
+English and Modern Languages
+Aditi Das
+20000.0
+3.0
+Humanities and Social Sciences
+Saanvi Jayaraman
+40000.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Daksh Venkatesan
+7.5
+17.0
+Natural Sciences
+Aadhya Bose
+45000.0
+8.0
+English and Modern Languages
+Isaac Das
+15000.0
+7.0
+Professional Education
+Ananya Sharma
+7.5
+15.0
+Professional Education
+Saanvi Gupta
+5.5
+9.0
+Professional Education
+Saanvi Sharma
+8.5
+14.0
+Mathematics, Computer Science, and Information Systems
+Bertok Bose
+20000.0
+6.0
+Professional Education
+Reyansh Pillai
+55000.0
+16.0
+Professional Education
+Bertok Sengupta
+5.0
+11.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Sharma
+45000.0
+1.0
+English and Modern Languages
+Jai Jayaraman
+40000.0
+1.0
+English and Modern Languages
+Aadhya Bose
+55000.0
+8.0
+Natural Sciences
+Aadhya Gupta
+6.0
+1.0
+Fine and Performing Arts
+Neel Verma
+40000.0
+12.0
+Humanities and Social Sciences
+Isaac Verma
+10000.0
+8.0
+Mathematics, Computer Science, and Information Systems
+Neel Das
+8.5
+6.0
+Mathematics, Computer Science, and Information Systems
+Ananya Bose
+8.5
+9.0
+English and Modern Languages
+Isaac Sen
+8.5
+5.0
+English and Modern Languages
+Aditi Verma
+20000.0
+5.0
+Professional Education
+Aegir Sen
+10000.0
+7.0
+Natural Sciences
+Bertok Rao
+5.0
+15.0
+Natural Sciences
+Jai Das
+35000.0
+17.0
+Natural Sciences
+Reyansh Jayaraman
+5.0
+1.0
+Fine and Performing Arts
+Ananya Das
+8.0
+10.0
+Natural Sciences
+Reyansh Bose
+40000.0
+2.0
+Humanities and Social Sciences
+Reyansh Sharma
+8.5
+16.0
+Professional Education
+Saanvi Jayaraman
+7.5
+17.0
+Fine and Performing Arts
+Jai Venkatesan
+40000.0
+15.0
+Fine and Performing Arts
+Aegir Sen
+35000.0
+2.0
+English and Modern Languages
+Aditi Venkatesan
+15000.0
+1.0
+Mathematics, Computer Science, and Information Systems
+Jai Sen
+15000.0
+18.0
+Natural Sciences
+Aadhya Verma
+6.0
+13.0
+Fine and Performing Arts
+Neel Sharma
+7.5
+6.0
+Professional Education
+Zara Das
+5.0
+9.0
+Professional Education
+Jai Gupta
+6.5
+13.0
+Humanities and Social Sciences
+Atharv Gupta
+6.0
+0.0
+Professional Education
+Isaac Verma
+10000.0
+17.0
+Natural Sciences
+Ananya Bose
+45000.0
+0.0
+Humanities and Social Sciences
+Zara Pillai
+5.0
+15.0
+Humanities and Social Sciences
+Neel Verma
+30000.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Isaac Jayaraman
+50000.0
+7.0
+Natural Sciences
+Aegir Sengupta
+50000.0
+5.0
+Professional Education
+Jai Sen
+25000.0
+6.0
+English and Modern Languages
+Isaac Sharma
+6.0
+17.0
+Natural Sciences
+Jai Sengupta
+5.0
+1.0
+Humanities and Social Sciences
+Aegir Sharma
+6.5
+11.0
+Professional Education
+Isaac Verma
+25000.0
+9.0
+Natural Sciences
+Saanvi Venkatesan
+30000.0
+2.0
+Humanities and Social Sciences
+Zara Jayaraman
+5.5
+0.0
+Mathematics, Computer Science, and Information Systems
+Aditi Venkatesan
+40000.0
+18.0
+Natural Sciences
+Bertok Jayaraman
+50000.0
+10.0
+Humanities and Social Sciences
+Daksh Verma
+7.0
+10.0
+Humanities and Social Sciences
+Isaac Pillai
+10000.0
+7.0
+Fine and Performing Arts
+Atharv Das
+5.0
+11.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Sen
+25000.0
+7.0
+Fine and Performing Arts
+Neel Das
+45000.0
+12.0
+Natural Sciences
+Neel Rao
+10000.0
+16.0
+Natural Sciences
+Ananya Rao
+20000.0
+15.0
+Professional Education
+Aegir Sharma
+30000.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Aegir Venkatesan
+7.5
+6.0
+Professional Education
+Aegir Verma
+25000.0
+6.0
+English and Modern Languages
+Jai Verma
+20000.0
+5.0
+English and Modern Languages
+Jai Verma
+5.5
+9.0
+Professional Education
+Neel Rao
+50000.0
+4.0
+Professional Education
+Bertok Gupta
+10000.0
 2.0
 Mathematics, Computer Science, and Information Systems
 Zara Rao
 5.5
-19.0
-Natural Sciences
-Saanvi Das
-15000.0
-18.0
-English and Modern Languages
-Aadhya Sengupta
-45000.0
-7.0
-Natural Sciences
-Ananya Sharma
-8.5
-11.0
-Fine and Performing Arts
-Daksh Venkatesan
-8.5
-2.0
-English and Modern Languages
-Aditi Jayaraman
-5.5
-18.0
-Humanities and Social Sciences
-Neel Venkatesan
-30000.0
-9.0
-Natural Sciences
-Neel Bose
-15000.0
-7.0
-Professional Education
-Medusa Das
-6.5
-11.0
-English and Modern Languages
-Reyansh Gupta
-8.5
 4.0
-English and Modern Languages
-Zara Das
-8.0
-12.0
-Fine and Performing Arts
-Aegir Rao
-45000.0
-18.0
-Mathematics, Computer Science, and Information Systems
-Diya Sengupta
-30000.0
-5.0
 Humanities and Social Sciences
-Atharv Pillai
-8.5
+Zara Verma
+50000.0
+18.0
+Fine and Performing Arts
+Diya Gupta
+25000.0
+7.0
+English and Modern Languages
+Diya Sharma
+45000.0
+15.0
+Natural Sciences
+Aegir Bose
+8.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Neel Sengupta
+5.0
+11.0
+English and Modern Languages
+Neel Bose
+6.5
+6.0
+Mathematics, Computer Science, and Information Systems
+Atharv Bose
+8.0
 10.0
 Fine and Performing Arts
-Neptun Jayaraman
+Isaac Sengupta
+6.0
+12.0
+Fine and Performing Arts
+Zara Verma
+6.5
+12.0
+Professional Education
+Aegir Pillai
+8.5
+13.0
+Fine and Performing Arts
+Jai Verma
+45000.0
+9.0
+Humanities and Social Sciences
+Aegir Sengupta
+8.5
+15.0
+Natural Sciences
+Daksh Jayaraman
+5.5
+1.0
+Mathematics, Computer Science, and Information Systems
+Aegir Verma
+55000.0
+16.0
+Professional Education
+Zara Sengupta
+7.5
+6.0
+Professional Education
+Ananya Pillai
+20000.0
+8.0
+Professional Education
+Reyansh Verma
+8.5
+14.0
+Professional Education
+Isaac Sengupta
+6.0
+9.0
+Natural Sciences
+Ananya Sharma
+45000.0
+8.0
+Mathematics, Computer Science, and Information Systems
+Bertok Sengupta
+5.0
+18.0
+Mathematics, Computer Science, and Information Systems
+Zara Das
+50000.0
+19.0
+Natural Sciences
+Jai Pillai
+8.5
+5.0
+Humanities and Social Sciences
+Jai Rao
+7.5
+4.0
+Professional Education
+Neel Jayaraman
+7.0
+5.0
+Fine and Performing Arts
+Zara Sharma
+8.5
+19.0
+Natural Sciences
+Neel Gupta
+10000.0
+11.0
+English and Modern Languages
+Saanvi Verma
+30000.0
+18.0
+Professional Education
+Neel Rao
+15000.0
+3.0
+Natural Sciences
+Aegir Verma
+10000.0
+0.0
+Humanities and Social Sciences
+Isaac Sen
+25000.0
+19.0
+Humanities and Social Sciences
+Aegir Rao
+20000.0
+8.0
+Humanities and Social Sciences
+Aadhya Sengupta
+20000.0
+11.0
+Humanities and Social Sciences
+Aditi Pillai
+6.5
+4.0
+Humanities and Social Sciences
+Diya Verma
+55000.0
+13.0
+Professional Education
+Atharv Jayaraman
+15000.0
+15.0
+Professional Education
+Reyansh Venkatesan
+5.5
+10.0
+Fine and Performing Arts
+Neel Sengupta
+5.5
+3.0
+English and Modern Languages
+Diya Sharma
+25000.0
+17.0
+Professional Education
+Diya Bose
+40000.0
+16.0
+English and Modern Languages
+Daksh Jayaraman
+6.5
+5.0
+Mathematics, Computer Science, and Information Systems
+Atharv Sengupta
+5.0
+0.0
+Natural Sciences
+Diya Das
+6.5
+1.0
+Mathematics, Computer Science, and Information Systems
+Atharv Verma
+5.0
+7.0
+Professional Education
+Ananya Bose
+10000.0
+15.0
+Professional Education
+Isaac Bose
+7.0
+19.0
+Natural Sciences
+Aditi Sengupta
 35000.0
 13.0
 Natural Sciences
-Diya Verma
-7.5
-11.0
-Mathematics, Computer Science, and Information Systems
-Potsdam Sharma
-5.5
-6.0
-Mathematics, Computer Science, and Information Systems
-Zara Pillai
-6.5
-4.0
-Mathematics, Computer Science, and Information Systems
-Medusa Bose
-6.5
-1.0
-Natural Sciences
-Hydra Jayaraman
-8.5
-7.0
-Natural Sciences
-Diya Sen
-20000.0
-0.0
-Natural Sciences
-Saanvi Venkatesan
-45000.0
-9.0
-Mathematics, Computer Science, and Information Systems
-Medusa Sengupta
-6.5
-17.0
-Humanities and Social Sciences
-Aegir Pillai
-8.0
-18.0
-Mathematics, Computer Science, and Information Systems
-Saanvi Das
-45000.0
-14.0
-Fine and Performing Arts
-Aegir Sen
-7.0
-15.0
-Humanities and Social Sciences
-Zara Sengupta
-5.0
-6.0
-Humanities and Social Sciences
-Potsdam Sengupta
+Neel Bose
 25000.0
-9.0
+13.0
 Professional Education
-Bertok Rao
-5.5
-1.0
-Humanities and Social Sciences
-Medusa Bose
+Bertok Verma
+8.0
 7.0
-15.0
-Humanities and Social Sciences
-Aegir Rao
-10000.0
-3.0
-Humanities and Social Sciences
-Potsdam Sen
-8.5
-4.0
 English and Modern Languages
-Aegir Jayaraman
+Zara Rao
+10000.0
+2.0
+Fine and Performing Arts
+Aditi Venkatesan
+8.5
+17.0
+Natural Sciences
+Aadhya Verma
+25000.0
+12.0
+English and Modern Languages
+Jai Bose
 45000.0
 10.0
 English and Modern Languages
+Reyansh Jayaraman
+6.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Zara Sengupta
+15000.0
+0.0
+Natural Sciences
+Zara Sharma
+55000.0
+16.0
+Humanities and Social Sciences
+Atharv Sharma
+10000.0
+15.0
+Natural Sciences
+Diya Pillai
+5.5
+17.0
+Humanities and Social Sciences
+Saanvi Sharma
+8.5
+19.0
+Mathematics, Computer Science, and Information Systems
+Zara Rao
+7.0
+18.0
+Humanities and Social Sciences
+Bertok Verma
+6.0
+12.0
+Professional Education
+Aegir Pillai
+20000.0
+1.0
+Humanities and Social Sciences
+Atharv Das
+50000.0
+1.0
+Professional Education
+Neel Sengupta
+6.5
+0.0
+English and Modern Languages
+Aegir Venkatesan
+35000.0
+15.0
+Natural Sciences
+Neel Jayaraman
+5.0
+3.0
+Natural Sciences
+Aditi Venkatesan
+8.5
+14.0
+Natural Sciences
+Jai Jayaraman
+6.0
+16.0
+Humanities and Social Sciences
+Bertok Sen
+8.5
+14.0
+Fine and Performing Arts
+Neel Pillai
+10000.0
+4.0
+Humanities and Social Sciences
+Aadhya Das
+7.0
+17.0
+Mathematics, Computer Science, and Information Systems
+Neel Jayaraman
+5.5
+15.0
+English and Modern Languages
+Reyansh Sen
+35000.0
+13.0
+Natural Sciences
+Saanvi Bose
+7.0
+9.0
+Fine and Performing Arts
+Saanvi Gupta
+35000.0
+5.0
+Natural Sciences
+Reyansh Sen
+15000.0
+10.0
+Fine and Performing Arts
+Diya Sengupta
+40000.0
+7.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Sharma
+5.5
+11.0
+Mathematics, Computer Science, and Information Systems
+Diya Sengupta
+30000.0
+3.0
+English and Modern Languages
+Ananya Sen
+7.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Verma
+50000.0
+19.0
+English and Modern Languages
+Jai Sharma
+55000.0
+3.0
+Mathematics, Computer Science, and Information Systems
+Reyansh Bose
+5.0
+17.0
+Humanities and Social Sciences
+Bertok Sen
+8.0
+6.0
+Humanities and Social Sciences
+Zara Rao
+6.0
+9.0
+Mathematics, Computer Science, and Information Systems
+Jai Jayaraman
+7.0
+17.0
+Fine and Performing Arts
+Bertok Das
+30000.0
+18.0
+Fine and Performing Arts
+Saanvi Gupta
+5.0
+15.0
+Professional Education
+Isaac Gupta
+5.0
+13.0
+Natural Sciences
+Atharv Pillai
+25000.0
+3.0
+Fine and Performing Arts
+Aadhya Sengupta
+8.0
+9.0
+English and Modern Languages
+Atharv Jayaraman
+35000.0
+1.0
+Mathematics, Computer Science, and Information Systems
+Zara Venkatesan
+55000.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Zara Sengupta
+20000.0
+8.0
+English and Modern Languages
+Jai Das
+40000.0
+0.0
+English and Modern Languages
+Saanvi Jayaraman
+30000.0
+0.0
+English and Modern Languages
+Ananya Bose
+15000.0
+8.0
+Fine and Performing Arts
+Aegir Verma
+55000.0
+13.0
+Professional Education
+Aadhya Sharma
+7.0
+8.0
+Humanities and Social Sciences
+Neel Pillai
+40000.0
+18.0
+English and Modern Languages
+Saanvi Das
+8.0
+8.0
+English and Modern Languages
+Bertok Bose
+25000.0
+13.0
+English and Modern Languages
+Atharv Sen
+6.5
+15.0
+Natural Sciences
+Aditi Jayaraman
+25000.0
+18.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Sharma
+7.0
+2.0
+Natural Sciences
+Atharv Sengupta
+55000.0
+12.0
+Humanities and Social Sciences
+Isaac Sen
+20000.0
+7.0
+Professional Education
+Aditi Sengupta
+45000.0
+8.0
+Mathematics, Computer Science, and Information Systems
+Bertok Das
+10000.0
+3.0
+Professional Education
+Saanvi Jayaraman
+30000.0
+5.0
+Professional Education
+Aadhya Sengupta
+35000.0
+5.0
+Fine and Performing Arts
+Diya Pillai
+8.5
+16.0
+Humanities and Social Sciences
+Isaac Sharma
+8.0
+19.0
+Humanities and Social Sciences
+Atharv Sen
+7.5
+8.0
+Mathematics, Computer Science, and Information Systems
+Aditi Sengupta
+5.5
+4.0
+English and Modern Languages
+Isaac Sengupta
+40000.0
+4.0
+Natural Sciences
+Aegir Jayaraman
+5.5
+6.0
+Mathematics, Computer Science, and Information Systems
+Isaac Bose
+55000.0
+14.0
+Professional Education
+Daksh Sengupta
+8.0
+12.0
+English and Modern Languages
+Diya Bose
+6.0
+17.0
+Natural Sciences
+Neel Pillai
+50000.0
+7.0
+Humanities and Social Sciences
+Saanvi Pillai
+25000.0
+13.0
+Professional Education
+Bertok Gupta
+6.0
+18.0
+Natural Sciences
+Bertok Das
+6.5
+3.0
+English and Modern Languages
+Jai Rao
+6.0
+17.0
+Fine and Performing Arts
+Atharv Gupta
+6.5
+5.0
+Mathematics, Computer Science, and Information Systems
+Isaac Pillai
+35000.0
+7.0
+Mathematics, Computer Science, and Information Systems
+Ananya Venkatesan
+25000.0
+2.0
+English and Modern Languages
+Saanvi Sengupta
+45000.0
+8.0
+English and Modern Languages
+Atharv Sharma
+15000.0
+9.0
+Natural Sciences
+Ananya Venkatesan
+5.5
+18.0
+Mathematics, Computer Science, and Information Systems
+Daksh Jayaraman
+55000.0
+11.0
+English and Modern Languages
+Atharv Jayaraman
+15000.0
+6.0
+Mathematics, Computer Science, and Information Systems
+Aegir Rao
+10000.0
+17.0
+Mathematics, Computer Science, and Information Systems
+Bertok Sengupta
+40000.0
+1.0
+Mathematics, Computer Science, and Information Systems
+Bertok Gupta
+5.5
+4.0
+Natural Sciences
+Atharv Verma
+5.5
+4.0
+English and Modern Languages
+Bertok Sharma
+6.5
+18.0
+English and Modern Languages
+Diya Sengupta
+6.5
+7.0
+English and Modern Languages
+Aegir Sen
+35000.0
+15.0
+English and Modern Languages
+Reyansh Gupta
+40000.0
+3.0
+Professional Education
+Neel Gupta
+8.5
+15.0
+Professional Education
+Jai Bose
+7.5
+14.0
+English and Modern Languages
+Neel Pillai
+8.0
+1.0
+English and Modern Languages
+Reyansh Verma
+55000.0
+12.0
+Humanities and Social Sciences
+Isaac Verma
+25000.0
+13.0
+Fine and Performing Arts
+Neel Rao
+35000.0
+7.0
+English and Modern Languages
+Bertok Pillai
+7.0
+4.0
+Fine and Performing Arts
+Ananya Pillai
+55000.0
+16.0
+Professional Education
+Zara Rao
+20000.0
+5.0
+Professional Education
+Daksh Das
+50000.0
+13.0
+Mathematics, Computer Science, and Information Systems
+Zara Das
+6.5
+17.0
+English and Modern Languages
+Atharv Verma
+55000.0
+3.0
+Humanities and Social Sciences
+Jai Pillai
+35000.0
+0.0
+Humanities and Social Sciences
+Aegir Jayaraman
+5.0
+1.0
+Fine and Performing Arts
+Neel Sen
+8.5
+6.0
+Professional Education
+Reyansh Bose
+6.0
+14.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Rao
+8.0
+17.0
+Professional Education
+Aditi Verma
+35000.0
+3.0
+English and Modern Languages
+Ananya Das
+5.5
+2.0
+Humanities and Social Sciences
+Reyansh Verma
+10000.0
+10.0
+Humanities and Social Sciences
+Daksh Bose
+6.5
+14.0
+Humanities and Social Sciences
+Isaac Sengupta
+5.0
+1.0
+English and Modern Languages
+Aadhya Jayaraman
+40000.0
+12.0
+Humanities and Social Sciences
+Bertok Bose
+5.5
+17.0
+Natural Sciences
+Zara Venkatesan
+7.0
+7.0
+Professional Education
+Diya Bose
+35000.0
+10.0
+Natural Sciences
+Neel Verma
+35000.0
+18.0
+Humanities and Social Sciences
+Neel Venkatesan
+45000.0
+5.0
+Natural Sciences
+Daksh Sen
+6.0
+16.0
+Humanities and Social Sciences
+Neel Sharma
+5.0
+7.0
+Professional Education
+Zara Gupta
+6.0
+15.0
+Mathematics, Computer Science, and Information Systems
+Aadhya Sharma
+55000.0
+18.0
+English and Modern Languages
+Bertok Pillai
+15000.0
+8.0
+Professional Education
+Aadhya Sharma
+50000.0
+0.0
+Fine and Performing Arts
+Neel Rao
+8.0
+7.0
+Natural Sciences
+Daksh Bose
+6.5
+1.0
+Professional Education
+Diya Pillai
+25000.0
+1.0
+Natural Sciences
+Aadhya Jayaraman
+35000.0
+7.0
+Mathematics, Computer Science, and Information Systems
+Ananya Venkatesan
+7.5
+4.0
+Fine and Performing Arts
+Isaac Rao
+8.5
+1.0
+Natural Sciences
+Neel Pillai
+50000.0
+3.0
+Natural Sciences
+Jai Sengupta
+40000.0
+17.0
+Fine and Performing Arts
+Daksh Gupta
+25000.0
+13.0
+Humanities and Social Sciences
+Reyansh Verma
+30000.0
+13.0
+Humanities and Social Sciences
+Aadhya Bose
+50000.0
+4.0
+Mathematics, Computer Science, and Information Systems
+Isaac Jayaraman
+8.0
+2.0
+Natural Sciences
+Ananya Bose
+6.0
+19.0
+Fine and Performing Arts
+Diya Das
+10000.0
+19.0
+Fine and Performing Arts
+Neel Venkatesan
+5.0
+1.0
+Humanities and Social Sciences
+Aadhya Sen
+50000.0
+6.0
+Professional Education
+Aditi Venkatesan
+45000.0
+8.0
+Fine and Performing Arts
+Zara Sengupta
+5.0
+7.0
+Fine and Performing Arts
+Atharv Sengupta
+7.5
+6.0
+Fine and Performing Arts
+Neel Gupta
+7.5
+4.0
+Humanities and Social Sciences
+Jai Sengupta
+5.5
+8.0
+Mathematics, Computer Science, and Information Systems
+Ananya Bose
+7.0
+14.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Das
+8.0
+19.0
+Mathematics, Computer Science, and Information Systems
+Reyansh Sharma
+15000.0
+4.0
+Fine and Performing Arts
+Aditi Verma
+50000.0
+17.0
+English and Modern Languages
+Isaac Das
+8.5
+3.0
+English and Modern Languages
+Ananya Sengupta
+8.0
+13.0
+Natural Sciences
+Jai Venkatesan
+8.0
+15.0
+Natural Sciences
+Isaac Rao
+8.5
+9.0
+English and Modern Languages
+Aegir Rao
+25000.0
+7.0
+Fine and Performing Arts
+Aadhya Pillai
+50000.0
+1.0
+Natural Sciences
+Daksh Pillai
+35000.0
+10.0
+Humanities and Social Sciences
+Reyansh Verma
+50000.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Aditi Rao
+5.0
+1.0
+Humanities and Social Sciences
+Reyansh Sengupta
+45000.0
+7.0
+Professional Education
+Daksh Venkatesan
+7.5
+0.0
+Humanities and Social Sciences
+Reyansh Bose
+8.5
+2.0
+English and Modern Languages
+Daksh Jayaraman
+20000.0
+4.0
+Humanities and Social Sciences
+Ananya Pillai
+50000.0
+10.0
+English and Modern Languages
+Aditi Jayaraman
+6.0
+8.0
+Fine and Performing Arts
+Aegir Das
+6.0
+11.0
+Mathematics, Computer Science, and Information Systems
+Neel Gupta
+55000.0
+3.0
+Professional Education
+Aadhya Pillai
+35000.0
+13.0
+Natural Sciences
+Bertok Sengupta
+40000.0
+6.0
+Fine and Performing Arts
+Aegir Venkatesan
+5.5
+11.0
+English and Modern Languages
+Aegir Sharma
+45000.0
+16.0
+Professional Education
+Jai Bose
+8.5
+14.0
+English and Modern Languages
+Aegir Sharma
+8.5
+15.0
+Natural Sciences
+Jai Sen
+6.0
+1.0
+Mathematics, Computer Science, and Information Systems
+Aegir Sen
+10000.0
+3.0
+Mathematics, Computer Science, and Information Systems
+Saanvi Sengupta
+6.0
+13.0
+Mathematics, Computer Science, and Information Systems
+Daksh Bose
+7.0
+5.0
+Fine and Performing Arts
+Aadhya Pillai
+50000.0
+13.0
+Humanities and Social Sciences
+Saanvi Sharma
+7.0
+4.0
+Fine and Performing Arts
+Aegir Rao
+30000.0
+15.0
+English and Modern Languages
+Zara Jayaraman
+6.0
+15.0
+Humanities and Social Sciences
+Aegir Rao
+5.0
+14.0
+Fine and Performing Arts
+Isaac Bose
+5.5
+14.0
+Fine and Performing Arts
+Ananya Gupta
+45000.0
+7.0
+Natural Sciences
+Reyansh Rao
+30000.0
+10.0
+Professional Education
+Jai Jayaraman
+30000.0
+8.0
+Mathematics, Computer Science, and Information Systems
+Neel Rao
+45000.0
+14.0
+Humanities and Social Sciences
+Zara Jayaraman
+5.0
+7.0
+Fine and Performing Arts
+Isaac Pillai
+6.0
+10.0
+Mathematics, Computer Science, and Information Systems
+Isaac Sen
+45000.0
+0.0
+Professional Education
+Neel Sengupta
+8.5
+19.0
+Humanities and Social Sciences
+Saanvi Sengupta
+25000.0
+1.0
+Fine and Performing Arts
+Jai Verma
+40000.0
+19.0
+Fine and Performing Arts
+Aegir Das
+6.0
+9.0
+Natural Sciences
+Aegir Sharma
+6.0
+7.0
+Fine and Performing Arts
+Daksh Sharma
+45000.0
+19.0
+Mathematics, Computer Science, and Information Systems
+Zara Gupta
+10000.0
+13.0
+Fine and Performing Arts
+Aadhya Sen
+5.0
+11.0
+Humanities and Social Sciences
+Jai Rao
+35000.0
+7.0
+Fine and Performing Arts
+Jai Sengupta
+6.5
+2.0
+Humanities and Social Sciences
+Bertok Pillai
+25000.0
+16.0
+Fine and Performing Arts
+Aditi Rao
+5.0
+1.0
+Professional Education
+Jai Sharma
+8.5
+5.0
+English and Modern Languages
+Ananya Bose
+7.5
+3.0
+Mathematics, Computer Science, and Information Systems
+Bertok Venkatesan
+45000.0
+3.0
+Natural Sciences
+Jai Jayaraman
+15000.0
+16.0
+English and Modern Languages
+Ananya Gupta
+5.0
+1.0
+Humanities and Social Sciences
+Diya Rao
+50000.0
+17.0
+Humanities and Social Sciences
+Bertok Sharma
+25000.0
+16.0
+Mathematics, Computer Science, and Information Systems
